@@ -6,8 +6,8 @@ Hier entsteht das Free and Open Source-Software-Konzept der grün-roten Regierun
 Wir freuen uns über Eure Teilnahme und Euer Feedback!
 -->
 
-# Offene Standards
+## Offene Standards
 
-# Keine Herstellerabhängigkeiten
+## Keine Herstellerabhängigkeiten
 
-# Client-Betriebssysteme und Office-Anwendungen
+## Client-Betriebssysteme und Office-Anwendungen
