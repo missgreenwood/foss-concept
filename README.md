@@ -37,3 +37,15 @@ Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen
 
   - Die Stadt München soll Open Source Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
   - Stellt die Stadt München selbst Software her, sollte sie eine freizügige Lizenz (wie MIT) wählen.
+
+## Beschaffung
+
+Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
+Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
+
+* es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
+* es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
+* es werden auch __Lizenzen__ für dual-lizenzierte __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
+
+Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängekeit zu begeben.
+So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
