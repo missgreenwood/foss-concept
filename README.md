@@ -34,8 +34,6 @@ Unterschiedliche Copyleft-Lizenzen können zueinander inkompatibel sein, was die
 
 Bei "freizügigen" Lizenzen (wie der [MIT](https://choosealicense.com/licenses/mit/)) entfällt dieser Zwang.
 Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen können, können solche Software ohne Bedenken nutzen und für ihre Zwecke anpassen.
-Die Eintrittshürde, freizügig lizensierte Software zu nutzen, ist geringer, und eine größere Verbreitung, Nutzung und auch Bearbeitung und Verbesserung wahrscheinlicher.
-Auch kommerzielle Nutzung solcher Software ist erlaubt.
 
   - Die Stadt München soll Open Source Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
   - Stellt die Stadt München selbst Software her, sollte sie eine freizügige Lizenz (wie MIT) wählen.
