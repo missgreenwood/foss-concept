@@ -12,7 +12,9 @@ Die [Koalitionsvereinbarung für die Stadtratsperiode 2020 –2026 zwischen Ober
 
 > Es gilt im Hoheitsbereich grundsätzlich das Prinzip “public money, public code”. Das heißt: Sofern keine personenbezogenen oder vertrauliche Daten enthalten sind, wird auch der Quellcode städtischer Software veröffentlicht. Die Stadt München unterstützt die Entwicklung von Open Source-Projekten mit einem "Munich Open Source Sabbatical". Professionelle Programmierer*innen, die sich für drei oder sechs Monate ganz auf die Fortentwicklung eines Open Source-Projektes konzentrieren möchten, können sich dafür auf ein städtisches bezahltes Stipendium bewerben. Die Projekte müssen einen kommunalen Nutzen haben.
 
-Dieses Konzept definiert [Free Open Source Software](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) (FOSS) für die Landeshauptstadt München.
+Dieses Konzept definiert [Free Open Source Software](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) (FOSS) für die Landeshauptstadt München auf Basis des Koalitionsvertrags.
+Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von Entwicklung, Beschaffung und Betrieb von OpenSource Software.
+
 
 ## Offene Standards
 
@@ -37,3 +39,15 @@ Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen
 
   - Die Stadt München soll Open Source Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
   - Stellt die Stadt München selbst Software her, sollte sie eine freizügige Lizenz (wie MIT) wählen.
+
+## Beschaffung
+
+Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
+Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
+
+* es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
+* es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
+* es werden auch __Lizenzen__ für dual-lizenzierte __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
+
+Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängekeit zu begeben.
+So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
