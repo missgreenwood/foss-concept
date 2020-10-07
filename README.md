@@ -22,13 +22,9 @@ Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
-## Fachanwendungen
+## Individualentwicklungen
 
-Die Stadt München betreibt mehrere hundert Fachanwendungen, um die verschiedenen Fachbereiche optimal in ihrer Arbeit zu unterstützen. Fachanwendungen werden als Produkt beschafft oder als Individualentwicklung beschafft oder selber entwickelt.
-
-Als Produkt beschaffte Fachanwendungen sollen ihre Funktionalität nicht nur über die Benutzeroberfläche, sondern auch über offene, standardisierte Schnittstellen (z.B. über ein REST-API) zur Verfügung stellen. Dadurch können die Fachanwendungen in die bestehende Portal- und Anwendungslandschaft medienbruchfrei integriert und somit kürzere Bearbeitungszeiten in der Verwaltung erreicht werden. Als Produkt beschaffte Fachanwendungen sollten außerdem in Open-Source-Umgebungen ablauffähig sein, sofern das vergaberechtlich möglich ist.
-
-Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Fachanwendungen von der Stadt München oder einem Dienstleister im Auftrag entwickelt werden. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer Open-Source-Lizen zur Verfügung zu stellen. Für die Entwicklung sollen bevorzugt Open-Source-Werkzeuge verwendet werden. Dadurch sind die Hürden gering, um andere Organisationen oder auch Bürger am Entwicklungsprozess zu beteiligen.
+Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer Open-Source-Lizenz zur Verfügung zu stellen. 
 
 ## Lizenzen
 
