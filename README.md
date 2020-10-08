@@ -22,6 +22,10 @@ Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
+## Individualentwicklungen
+
+Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer Open-Source-Lizenz zur Verfügung zu stellen. 
+
 ## Lizenzen
 
 "Open Source" Software bedeutet, dass der Quellcode frei zugänglich ist - der Code ist _einsehbar_ und _prüfbar_, wie bei einem Auto, dem man in den Motorraum sehen kann.
