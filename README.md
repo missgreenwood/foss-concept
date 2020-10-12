@@ -2,7 +2,7 @@ FOSS-Konzept Grün-Rot München 2020
 ==================================
 
 <!-- 
-Wenn wir am Anfang des Konzeptes sagen, welche Ziele mit dem Konzept verfolgt werden, dann kann der Rest davon abgeleitet werden. Mir ist klar, dass der Anstoß aus der Koalitionsvereinbarung kommt, aber es gab ja sicher Gründe, warum FOSS dort drin steht. Im besten Fall sind die deckungsgleich zu den Zielen, falls nicht dan bitte ergänzen.
+Wenn wir am Anfang des Konzeptes sagen, welche Ziele mit dem Konzept verfolgt werden, dann kann der Rest davon abgeleitet werden. Mir ist klar, dass der Anstoß aus der Koalitionsvereinbarung kommt, aber es gab ja sicher Gründe, warum FOSS dort drin steht. Im besten Fall sind die deckungsgleich zu den Zielen, falls nicht dann bitte ergänzen.
 -->
 ## Ziele des FOSS-Konzeptes
 
@@ -28,12 +28,28 @@ Die [Koalitionsvereinbarung für die Stadtratsperiode 2020 –2026 zwischen Ober
 Dieses Konzept definiert [Free Open Source Software](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) (FOSS) für die Landeshauptstadt München auf Basis des Koalitionsvertrags.
 Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von Entwicklung, Beschaffung und Betrieb von OpenSource Software.
 
+## Offene Standards als Basis
 
-## Offene Standards
+## Verwendung von FOSS in der LHM
 
-## Keine Herstellerabhängigkeiten
+### Client-Betriebssysteme und Office-Anwendungen
 
-## Client-Betriebssysteme und Office-Anwendungen
+### Kommunale Software
+
+### Infrastrastruktur Software
+Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
+Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
+
+* es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
+* es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
+* es werden auch __Lizenzen__ für dual-lizenzierte __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
+
+Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängekeit zu begeben.
+So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
+
+### Softwareentwicklung
+
+## Die LHM als Anbieter von FOSS und Open Data
 
 ## Individualentwicklungen
 
@@ -57,14 +73,4 @@ Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen
   - Die Stadt München soll Open Source Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
   - Stellt die Stadt München selbst Software her, sollte sie eine freizügige Lizenz (wie MIT) wählen.
 
-## Beschaffung
 
-Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
-Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
-
-* es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
-* es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
-* es werden auch __Lizenzen__ für dual-lizenzierte __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
-
-Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängekeit zu begeben.
-So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
