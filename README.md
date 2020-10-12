@@ -1,6 +1,19 @@
 FOSS-Konzept Grün-Rot München 2020
 ==================================
 
+<!-- 
+Wenn wir am Anfang des Konzeptes sagen, welche Ziele mit dem Konzept verfolgt werden, dann kann der Rest davon abgeleitet werden. Mir ist klar, dass der Anstoß aus der Koalitionsvereinbarung kommt, aber es gab ja sicher Gründe, warum FOSS dort drin steht. Im besten Fall sind die deckungsgleich zu den Zielen, falls nicht dan bitte ergänzen.
+-->
+## Ziele des FOSS-Konzeptes
+
+1. Nach dem Motto "public money, public code", sollen möglichst viele Bürger*innen von den Investitionen der Landeshauptstadt München in die Softwareentwicklung profitieren.
+2. Vendor lock in soll vermieden werden
+3. ...
+
+
+## FOSS in der Koalitionsvereinbarung
+
+
 <!--- 
 Hier entsteht das Free and Open Source-Software-Konzept der grün-roten Regierungskoalition im Münchner Rathaus.
 Wir freuen uns über Eure Teilnahme und Euer Feedback!
