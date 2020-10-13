@@ -31,13 +31,7 @@ Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von
 ## Offene Standards als Basis
 
 ## Verwendung von FOSS in der LHM
-
-### Client-Betriebssysteme und Office-Anwendungen
-
-### Kommunale Software
-
-### Infrastrastruktur Software
-Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
+Bei der Verwendung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
 Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
 
 * es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
@@ -47,13 +41,21 @@ Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://
 Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängekeit zu begeben.
 So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
 
+### Client-Betriebssysteme und Office-Anwendungen
+
+### Beschaffung von Software
+Die Landeshauptstadt München nutzt fertige Software Produkte aus dem kommunalen mfeld 
+
 ### Softwareentwicklung
+Neben der Nutzung von Standartsoftware Produkten, wird bei der LHM auch Software entwickelt. Hierbei sollen durchgängig (sowohl im Front, als auch im Backend) Open-Source Bibliotheken mit einer möglicht liberalen Lizenz (beispielsweise Apache Licence) verwendet werden. Das gilt unabhängig davon, ob die Software von Mitarbeitern der Stadt München, oder einem Dienstleister im Auftrag entwickelt wird.
+
+Wenn innerhalb der Individualsoftwareentwicklung technische Anbhängigkeiten zu Drittsystemen entstehen, dann soll darauf geachtet werden, dass es sich hierbei um Produkte handelt, die unter OSS Lizenz verfügbar sind. Solche Systeme können beispielsweise ein Datenbank Management System, Suchmaschine oder ein Authentifizierungs Server sein.  
 
 ## Die LHM als Anbieter von FOSS und Open Data
 
 ## Individualentwicklungen
 
-Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer Open-Source-Lizenz zur Verfügung zu stellen. 
+
 
 ## Lizenzen
 
