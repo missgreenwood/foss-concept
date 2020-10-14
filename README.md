@@ -67,11 +67,22 @@ Neben der Nutzung von Standartsoftware Produkten, wird bei der LHM auch Software
 Wenn innerhalb der Individualsoftwareentwicklung technische Anbhängigkeiten zu Drittsystemen entstehen, dann soll darauf geachtet werden, dass es sich hierbei um Produkte handelt, die unter OSS Lizenz verfügbar sind. Solche Systeme können beispielsweise ein Datenbank Management System, Suchmaschine oder ein Authentifizierungs Server sein.  
 
 ## Die LHM als Anbieter von FOSS
-Grundsätzlich sollte es für die meisten fachlichen Probleme eine Anwendung auf dem kommunalen Software Markt geben. Oft ist es allerdings so, dass die Landeshauptstadt München alleine aufgrund ihrer Größe für Proleme eine IT Lösung benötigt, die andere Kommunen mit einer Tabellenkalkulation lösen. Deshalb ist es tritt die Stadtverwaltung regelmäßig als Software Hersteller auf. 
+Grundsätzlich sollte es für die meisten fachlichen Probleme eine Anwendung auf dem kommunalen Software Markt geben. Oft ist es allerdings so, dass die Landeshauptstadt München alleine aufgrund ihrer Größe für Proleme eine IT Lösung benötigt, die andere Kommunen mit einer Tabellenkalkulation lösen. Deshalb tritt die Stadtverwaltung regelmäßig als Software Hersteller auf.
 
 Getreu dem Motto "public money, public code", soll der Source Code für Eigenentwicklungen öffentlich zugänglich gemacht werden. Dies geschieht in der Regel über ein öffentliches Source Code Repository. Ob dies von der Landeshauptstadt München selbst betrieben, oder ein öffentliches Repository wie Github verwendet wird, ist unerheblich. Wichtig ist, dass die Entwicklung aktiv innerhalb des Repositories statt findet und nicht von Zeit zu Zeit Code-Stände von innen nach außen kopiert werden.  
 
-### Individualentwicklungen
+### Entwicklungsgrundsätze
+Um Source Code bzw. eine Software für Dritte verwendbar zu machen, müssen die Hürden zur Nutzung möglichst minimiert werden. Schon in der Entwicklungsphase sollen deshalb folgende Grundsätze beachtet werden:
+- Die Abhängigkeiten zu anderen Anwendungen sollen auf das absoluten Minimum beschränkt werden. Vor allem, wenn es sich bei den Anwendungen um Kaufprodukte handelt. Sind diese Abhängigkeiten dennoch nicht zu vermeiden - beispielsweise weil die Daten benötigt werden - so soll der Zugriff auf die Fremdanwendung so gekapselt werden, dass der Zugriff mit vertretbarem Aufwand neu implementiert werden kann. 
+- Wenn es Abhängigkeiten zu technischen Infrastrukturkomponenten gibt (beispielsweise ein Datenbank Management Server, eine Suchmaschine oder einen Authentifizierungs Server), dann sollte der Zugriff über standardisierte Schnittstellen/ Protokolle erfolgen (z.B. OAuth oder SQL). Im besten Fall sollten in der technischen Infrastruktur auch FOSS Komponenten verwendet werden. 
+- Die verwendeten Technologien sollen möglichst weit verbreitet sein. Das gilt sowohl für die verwendeten Programmiersprachen, als auch die primären Frameworks, die verwendet werden. Das erhöht die Chance, dass die nutzende Behörde über Mitarbeiter verfügt, die die Technologien beherrschen. 
+- Die Zielinfrastruktur soll möglichst offen gehalten werden. D.h. die Anwendung sollte ohne große Anpassungen sowohl auf einem klassischen Server, als auch in einer Container Plattform oder einem Cloud Anbieter wie Amazon oder Google ausgebracht werden können.
+- Die Lizenzen der verwendeten Bibliotheken müssen so konsolidiert werden, dass die Software mit keinen oder möglichst niedrigen Auflagen weiter gegeben werden darf. Es muss möglich sein nachzuvollziehen, welche Lizenzen in der Anwendung verwendet wurden. 
+- Die Anwendung muss globalen Standards entsprechen. Das gilt beispielsweise für Dinge wie Barrierefreiheit. Aber auch für die Dokumentation oder Code Formatierung.
+
+### Zusammenarbeit mit der Community
+
+### Zusammenarbeit mit Software Anbietern
 
 
 
