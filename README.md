@@ -66,9 +66,12 @@ Neben der Nutzung von Standartsoftware Produkten, wird bei der LHM auch Software
 
 Wenn innerhalb der Individualsoftwareentwicklung technische Anbhängigkeiten zu Drittsystemen entstehen, dann soll darauf geachtet werden, dass es sich hierbei um Produkte handelt, die unter OSS Lizenz verfügbar sind. Solche Systeme können beispielsweise ein Datenbank Management System, Suchmaschine oder ein Authentifizierungs Server sein.  
 
-## Die LHM als Anbieter von FOSS und Open Data
+## Die LHM als Anbieter von FOSS
+Grundsätzlich sollte es für die meisten fachlichen Probleme eine Anwendung auf dem kommunalen Software Markt geben. Oft ist es allerdings so, dass die Landeshauptstadt München alleine aufgrund ihrer Größe für Proleme eine IT Lösung benötigt, die andere Kommunen mit einer Tabellenkalkulation lösen. Deshalb ist es tritt die Stadtverwaltung regelmäßig als Software Hersteller auf. 
 
-## Individualentwicklungen
+Getreu dem Motto "public money, public code", soll der Source Code für Eigenentwicklungen öffentlich zugänglich gemacht werden. Dies geschieht in der Regel über ein öffentliches Source Code Repository. Ob dies von der Landeshauptstadt München selbst betrieben, oder ein öffentliches Repository wie Github verwendet wird, ist unerheblich. Wichtig ist, dass die Entwicklung aktiv innerhalb des Repositories statt findet und nicht von Zeit zu Zeit Code-Stände von innen nach außen kopiert werden.  
+
+### Individualentwicklungen
 
 
 
