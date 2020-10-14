@@ -69,7 +69,18 @@ Wenn innerhalb der Individualsoftwareentwicklung technische Anbhängigkeiten zu 
 ## Die LHM als Anbieter von FOSS
 Grundsätzlich sollte es für die meisten fachlichen Probleme eine Anwendung auf dem kommunalen Software Markt geben. Oft ist es allerdings so, dass die Landeshauptstadt München alleine aufgrund ihrer Größe für Proleme eine IT Lösung benötigt, die andere Kommunen mit einer Tabellenkalkulation lösen. Deshalb tritt die Stadtverwaltung regelmäßig als Software Hersteller auf.
 
-Getreu dem Motto "public money, public code", soll der Source Code für Eigenentwicklungen öffentlich zugänglich gemacht werden. Dies geschieht in der Regel über ein öffentliches Source Code Repository. Ob dies von der Landeshauptstadt München selbst betrieben, oder ein öffentliches Repository wie Github verwendet wird, ist unerheblich. Wichtig ist, dass die Entwicklung aktiv innerhalb des Repositories statt findet und nicht von Zeit zu Zeit Code-Stände von innen nach außen kopiert werden.  
+Getreu dem Motto "public money, public code", soll der Source Code für Eigenentwicklungen öffentlich zugänglich gemacht werden. Dies geschieht in der Regel über ein öffentliches Source Code Repository. Ob dies von der Landeshauptstadt München selbst betrieben, oder ein öffentliches Repository wie Github verwendet wird, ist unerheblich. Wichtig ist, dass die Entwicklung aktiv innerhalb des Repositories statt findet und nicht von Zeit zu Zeit Code-Stände von innen nach außen kopiert werden. 
+
+### Produkt vs. Projektarbeit
+
+### Teilhabe aus der Community
+In Open Source Projekten kann die Community Anforderungen stellen, bzw. Anregungen geben, wie bestimmte Dinge innerhalb der Anwendung besser gelöst werden können. Dies kann in Form von Tickets, oder auch Code (Pull Request) erfolgen. Aktuell kommen die fachlichen Anfoderungten aus den Fachreferaten. Das eine weiter Stelle mitredet, wie ein Softwareprodukt aussehen kann ist für alle Beteiligten neu. Deshalb ist es wichtig klare Prozesse Regeln und auch Verantwortlichkeiten zu definieren (und auch zu kommunizieren), wie Dritte sich in die Software Entwicklung einbringen können. Beispielsweise:
+- Eine Rolle wie Product Owner zu definieren, mit den entsprechenden Befugnissen auszustatten und auch zu besetzen.
+- Ein Product Backlog Board zu definieren und zu besetzen, dass darüber abstimmen kann, welche Tickets es in das Product Backlog schaffen. Dort könnte sowohl der Fachbereich, als auch sehr aktive Contributors aus der Community sitzen.
+- Einen klaren Code Contributor Prozess definieren, der fest schreibt wie Code beigesteuert werden kann. Z.B. ausschließlich für Tickets, die sich im Product Backlog befinden. 
+
+
+### Zusammenarbeit mit Software Anbietern
 
 ### Entwicklungsgrundsätze
 Um Source Code bzw. eine Software für Dritte verwendbar zu machen, müssen die Hürden zur Nutzung möglichst minimiert werden. Schon in der Entwicklungsphase sollen deshalb folgende Grundsätze beachtet werden:
@@ -79,12 +90,7 @@ Um Source Code bzw. eine Software für Dritte verwendbar zu machen, müssen die 
 - Die Zielinfrastruktur soll möglichst offen gehalten werden. D.h. die Anwendung sollte ohne große Anpassungen sowohl auf einem klassischen Server, als auch in einer Container Plattform oder einem Cloud Anbieter wie Amazon oder Google ausgebracht werden können.
 - Die Lizenzen der verwendeten Bibliotheken müssen so konsolidiert werden, dass die Software mit keinen oder möglichst niedrigen Auflagen weiter gegeben werden darf. Es muss möglich sein nachzuvollziehen, welche Lizenzen in der Anwendung verwendet wurden. 
 - Die Anwendung muss globalen Standards entsprechen. Das gilt beispielsweise für Dinge wie Barrierefreiheit. Aber auch für die Dokumentation oder Code Formatierung.
-
-### Zusammenarbeit mit der Community
-
-### Zusammenarbeit mit Software Anbietern
-
-
+- Personenbezogene Daten, Passwörter und andere vertrauliche Informationen gehören auf keinen Fall in ein Source Code Repository. Das ist unabhängig davon, ob es privat oder öffentlich ist.
 
 ## Lizenzen
 
