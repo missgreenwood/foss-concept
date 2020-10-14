@@ -29,6 +29,16 @@ Dieses Konzept definiert [Free Open Source Software](https://de.wikipedia.org/wi
 Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von Entwicklung, Beschaffung und Betrieb von OpenSource Software.
 
 ## Offene Standards als Basis
+Die Softwareprodukte, die in der Landeshauptstadt München verwendet werden, sind miteinander vernetzt. Zudem werden zwischen der LHM und anderen Behörden Daten ausgetauscht. Deshalb ist es wichtig neben FOSS auch auf offene Standards zu setzen. 
+
+### Dokumentstandards
+In einer Behörde sind sehr viele Prozesse Dokumenten orientiert. Deshalb sollen offene und damit von allen verwendbare Dokumentformate verwendet werden. Dies sind in der Regel Formate, deren Spezifikation von offenen Standardisierungsorganisationen betreut werden (z.B. PDF von der PDF Association), oder die entsprechen normiert sind (beispielsweise das Open document format nach  ISO/IEC 26300).
+
+### Austatuschformate
+Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden aus. Hier ist es wichtig, dass diese Daten medienbruchfrei und automatisiert verarbeitet werden können. Für behördliche Spezialthemen (z.B. Einwohnermeldewesen, oder Ausländerwesen) gibt es hier standardisierte Austauschformate wie den XÖV (https://www.xoev.de/). Die Nutzung ist der XÖV Formate ist häufig vom Gesetzgeber vorgeschrieben (z.B. im Bundesmeldegesetzt). Darüber hinaus sollen auch in anderen Bereichen offene Austauschformate verwendet werden, wenn solche vorhanden sind.
+
+### Standadrisierte Protokolle
+Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleisten, sollen die verwendeten Software Produkte ihre Schnittstellen über standardisierte und offene Protokolle zur Verfügung stellen. Solche Protokolle werden in der Regel von einer Standardisierungsorganisation (z.B. HTTP vom World Wide Web Consortium W3C) normiert und finden eine weite Verbreitung in der IT Community.
 
 ## Verwendung von FOSS in der LHM
 Bei der Verwendung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
