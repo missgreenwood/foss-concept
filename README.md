@@ -80,9 +80,6 @@ In Open Source Projekten kann die Community Anforderungen stellen, bzw. Anregung
 - Ein Product Backlog Board zu definieren und zu besetzen, dass darüber abstimmen kann, welche Tickets es in das Product Backlog schaffen. Dort könnte sowohl der Fachbereich, als auch sehr aktive Contributors aus der Community sitzen.
 - Einen klaren Code Contributor Prozess definieren, der fest schreibt wie Code beigesteuert werden kann. Z.B. ausschließlich für Tickets, die sich im Product Backlog befinden. 
 
-
-### Zusammenarbeit mit Software Anbietern
-
 ### Entwicklungsgrundsätze
 Um Source Code bzw. eine Software für Dritte verwendbar zu machen, müssen die Hürden zur Nutzung möglichst minimiert werden. Schon in der Entwicklungsphase sollen deshalb folgende Grundsätze beachtet werden:
 - Die Abhängigkeiten zu anderen Anwendungen sollen auf das absoluten Minimum beschränkt werden. Vor allem, wenn es sich bei den Anwendungen um Kaufprodukte handelt. Sind diese Abhängigkeiten dennoch nicht zu vermeiden - beispielsweise weil die Daten benötigt werden - so soll der Zugriff auf die Fremdanwendung so gekapselt werden, dass der Zugriff mit vertretbarem Aufwand neu implementiert werden kann. 
@@ -92,6 +89,15 @@ Um Source Code bzw. eine Software für Dritte verwendbar zu machen, müssen die 
 - Die Lizenzen der verwendeten Bibliotheken müssen so konsolidiert werden, dass die Software mit keinen oder möglichst niedrigen Auflagen weiter gegeben werden darf. Es muss möglich sein nachzuvollziehen, welche Lizenzen in der Anwendung verwendet wurden. 
 - Die Anwendung muss globalen Standards entsprechen. Das gilt beispielsweise für Dinge wie Barrierefreiheit. Aber auch für die Dokumentation oder Code Formatierung.
 - Personenbezogene Daten, Passwörter und andere vertrauliche Informationen gehören auf keinen Fall in ein Source Code Repository. Das ist unabhängig davon, ob es privat oder öffentlich ist.
+
+### Zusammenarbeit mit Service Providern
+Auch wenn alle oben genannten Grundsätze eingehalten werden, so ist es doch eine große Hürde, fremden Source Code herunter zu laden, zu konfigurieren und in einer Zielinfrastruktur auszubringen. Unter der Annahme, dass der Interessentenkreis vor allem aus dem kommunalen Umfeld kommt, werden diese Hürden nur von ein sehr kleiner Teil der Kommunen überwunden werden können. Eine Lösung, um auch die anderen potenziellen Interessenten - vor allem kleinere Städte oder Gemeinden - an FOSS teilhaben zu lassen, ist die Software als Dienst anzubieten. D.h. ein Service Provider stellt eine Software in seiner Infrastruktur zur Verfügung und die kleineren Kommunen können diese gegen eine Service Gebühr nutzen. Dies kann zu einer win - win - win Situation führen. 
+
+- Für den Service Provider, weil er ein Geschäftsmodell ohne großen initialen Aufwand und Risiko schaffen kann. 
+- Für die Landeshauptstadt München, weil jemand, der ein Geschäftsmodell auf einem Softwareprodukt aufbaut, sich auch (in welcher Form auch immer) an der Weiterentwicklung beteiligen wird. Diese Kosten trägt heute die LHM zu 100%.
+- Für die Service Nutzer, weil sie so zugang zu einer Softwarelösung bekommen, den sie sonst nicht hätten.
+
+Es ist also wichtig, dass die Landeshauptstadt München Beziehungen zu potenziellen Service Providern aufbaut. Besonders geeignet erscheinen hier Anbieter, die bereits heuite als Anstant öffentlichen Rechts auf dem kommunalen Software auftreten.   
 
 ## Lizenzen
 
