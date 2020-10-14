@@ -1,6 +1,19 @@
 FOSS-Konzept Grün-Rot München 2020
 ==================================
 
+<!-- 
+Wenn wir am Anfang des Konzeptes sagen, welche Ziele mit dem Konzept verfolgt werden, dann kann der Rest davon abgeleitet werden. Mir ist klar, dass der Anstoß aus der Koalitionsvereinbarung kommt, aber es gab ja sicher Gründe, warum FOSS dort drin steht. Im besten Fall sind die deckungsgleich zu den Zielen, falls nicht dann bitte ergänzen.
+-->
+## Ziele des FOSS-Konzeptes
+
+1. Nach dem Motto "public money, public code", sollen möglichst viele Bürger*innen von den Investitionen der Landeshauptstadt München in die Softwareentwicklung profitieren.
+2. Vendor lock in soll vermieden werden
+3. ...
+
+
+## FOSS in der Koalitionsvereinbarung
+
+
 <!--- 
 Hier entsteht das Free and Open Source-Software-Konzept der grün-roten Regierungskoalition im Münchner Rathaus.
 Wir freuen uns über Eure Teilnahme und Euer Feedback!
@@ -15,16 +28,76 @@ Die [Koalitionsvereinbarung für die Stadtratsperiode 2020 –2026 zwischen Ober
 Dieses Konzept definiert [Free Open Source Software](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) (FOSS) für die Landeshauptstadt München auf Basis des Koalitionsvertrags.
 Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von Entwicklung, Beschaffung und Betrieb von OpenSource Software.
 
+## Offene Standards als Basis
+Die Softwareprodukte, die in der Landeshauptstadt München verwendet werden, sind miteinander vernetzt. Zudem werden zwischen der LHM und anderen Behörden Daten ausgetauscht. Deshalb ist es wichtig neben FOSS auch auf offene Standards zu setzen. 
 
-## Offene Standards
+### Dokumentstandards
+In einer Behörde sind sehr viele Prozesse Dokumenten orientiert. Deshalb sollen offene und damit von allen verwendbare Dokumentformate verwendet werden. Dies sind in der Regel Formate, deren Spezifikation von offenen Standardisierungsorganisationen betreut werden (z.B. PDF von der PDF Association), oder die entsprechen normiert sind (beispielsweise das Open document format nach  ISO/IEC 26300).
 
-## Keine Herstellerabhängigkeiten
+### Austatuschformate
+Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden aus. Hier ist es wichtig, dass diese Daten medienbruchfrei und automatisiert verarbeitet werden können. Für behördliche Spezialthemen (z.B. Einwohnermeldewesen, oder Ausländerwesen) gibt es hier standardisierte Austauschformate wie den XÖV (https://www.xoev.de/). Die Nutzung ist der XÖV Formate ist häufig vom Gesetzgeber vorgeschrieben (z.B. im Bundesmeldegesetzt). Darüber hinaus sollen auch in anderen Bereichen offene Austauschformate verwendet werden, wenn solche vorhanden sind.
 
-## Client-Betriebssysteme und Office-Anwendungen
+### Standadrisierte Protokolle
+Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleisten, sollen die verwendeten Software Produkte ihre Schnittstellen über standardisierte und offene Protokolle zur Verfügung stellen. Solche Protokolle werden in der Regel von einer Standardisierungsorganisation (z.B. HTTP vom World Wide Web Consortium W3C) normiert und finden eine weite Verbreitung in der IT Community.
 
-## Individualentwicklungen
+## Verwendung von FOSS in der LHM
+<!-- Die Geschäftsmodelle sind ein übergeordnetes Thema, das praktisch für alle Bereiche gilt. Eingeschränkt auch für die Eigenentwicklung. Deshalb habe ich das mal ganz nach oben gesetzt. -->
+Bei der Verwendung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
+Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
 
-Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer Open-Source-Lizenz zur Verfügung zu stellen. 
+* es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
+* es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
+* es werden auch __Lizenzen__ für dual-lizenzierte __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
+
+Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängekeit zu begeben.
+So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
+
+### Client-Betriebssysteme und Office-Anwendungen
+<!-- Habe ich als Punkt übernommen - finde es aber schwierig hier etwas darüber zu schreiben, nachdem gerade Libre Office und Linux - mit nicht unerheblichem Aufwand - durch MS Office und Windows ersetzt wird. -->
+
+### Beschaffung von kommunaler Software
+<!-- Ich würde das getrennt von anderen Beschaffungen sehen, da es aus meiner Sicht schwierig sein wird, auf dem kommunalesn Software Mart FOSS Produkte zu finden. -->
+
+### Beschaffung von nicht kommunaler Software
+Die Landeshauptstadt München verwendet auch Software, die nicht auf den Einsatz in einer Behörde beschränkt sind. Beispielweise GIT in der Softwareentwicklung, Serverbetriebssysteme im Anwendungsbetrieb, oder auch Videokonferenz Software. Hier sind die Möglichkeiten leistungsfähige FOSS Produkte auf dem Markt zu finden - auch in Kombination mit den oben genannten Geschäftsmodellen - deutlich höher, als bei kommunaler Spezialsoftware. Deshalb soll bei jeder Ausschreibung oder auch bei Abruf aus einem Rahmenvertrag, geprüft werden, ob es für den Einsatzzweck ein FOSS Produkt gibt und begründet werden, wenn dieses nicht verwendet wird.  
+
+### Softwareentwicklung
+Neben der Nutzung von Standartsoftware Produkten, wird bei der LHM auch Software entwickelt. Hierbei sollen durchgängig (sowohl im Front, als auch im Backend) Open-Source Bibliotheken mit einer möglicht liberalen Lizenz (beispielsweise Apache Licence) verwendet werden. Das gilt unabhängig davon, ob die Software von Mitarbeitern der Stadt München, oder einem Dienstleister im Auftrag entwickelt wird.
+
+Wenn innerhalb der Individualsoftwareentwicklung technische Anbhängigkeiten zu Drittsystemen entstehen, dann soll darauf geachtet werden, dass es sich hierbei um Produkte handelt, die unter OSS Lizenz verfügbar sind. Solche Systeme können beispielsweise ein Datenbank Management System, Suchmaschine oder ein Authentifizierungs Server sein.  
+
+## Die LHM als Anbieter von FOSS
+Grundsätzlich sollte es für die meisten fachlichen Probleme eine Anwendung auf dem kommunalen Software Markt geben. Oft ist es allerdings so, dass die Landeshauptstadt München alleine aufgrund ihrer Größe für Proleme eine IT Lösung benötigt, die andere Kommunen mit einer Tabellenkalkulation lösen. Deshalb tritt die Stadtverwaltung regelmäßig als Software Hersteller auf.
+
+Getreu dem Motto "public money, public code", soll der Source Code für Eigenentwicklungen öffentlich zugänglich gemacht werden. Dies geschieht in der Regel über ein öffentliches Source Code Repository. Ob dies von der Landeshauptstadt München selbst betrieben, oder ein öffentliches Repository wie Github verwendet wird, ist unerheblich. Wichtig ist, dass die Entwicklung aktiv innerhalb des Repositories statt findet und nicht von Zeit zu Zeit Code-Stände von innen nach außen kopiert werden. 
+
+### Produkt vs. Projektarbeit
+Wenn eine Softwareanwendung in Form von FOSS angeboten wird, so ist das für externe Personen wie ein Produkt. Innerhalb der LHM wird aber in der Regel in Form von Projekten gearbeitet. Die beiden unterscheiden sich vor allem darin, dass bei einem Projekt versucht wird, das definierte Ende einzuhalten, während bei einem Produkt alles getan wird, um das unbekannte Ende möglichst spät zu erreichen. Wenn die Landeshauptstadt München nun als FOSS Anbieter auftritt, so ist es wichtig, dass sie sich als Produkthersteller sieht (und auch so verhält). Das heißt sie sich nach einer anfänglichen Projektphase so in der Pflege und Weiterentwicklung der Software engagiert, dass es von außen als aktiv gepflegtes Open Source Projekt zu erkennen ist. Das ist wichtig für die Akzeptanz, denn niemand setzt auf ein augenscheinlich totes Pferd.     
+
+### Teilhabe aus der Community
+In Open Source Projekten kann die Community Anforderungen stellen, bzw. Anregungen geben, wie bestimmte Dinge innerhalb der Anwendung besser gelöst werden können. Dies kann in Form von Tickets, oder auch Code (Pull Request) erfolgen. Aktuell kommen die fachlichen Anfoderungten aus den Fachreferaten. Das eine weiter Stelle mitredet, wie ein Softwareprodukt aussehen kann ist für alle Beteiligten neu. Deshalb ist es wichtig klare Prozesse Regeln und auch Verantwortlichkeiten zu definieren (und auch zu kommunizieren), wie Dritte sich in die Software Entwicklung einbringen können. Beispielsweise:
+- Eine Rolle wie Product Owner zu definieren, mit den entsprechenden Befugnissen auszustatten und auch zu besetzen.
+- Ein Product Backlog Board zu definieren und zu besetzen, dass darüber abstimmen kann, welche Tickets es in das Product Backlog schaffen. Dort könnte sowohl der Fachbereich, als auch sehr aktive Contributors aus der Community sitzen.
+- Einen klaren Code Contributor Prozess definieren, der fest schreibt wie Code beigesteuert werden kann. Z.B. ausschließlich für Tickets, die sich im Product Backlog befinden. 
+
+### Entwicklungsgrundsätze
+Um Source Code bzw. eine Software für Dritte verwendbar zu machen, müssen die Hürden zur Nutzung möglichst minimiert werden. Schon in der Entwicklungsphase sollen deshalb folgende Grundsätze beachtet werden:
+- Die Abhängigkeiten zu anderen Anwendungen sollen auf das absoluten Minimum beschränkt werden. Vor allem, wenn es sich bei den Anwendungen um Kaufprodukte handelt. Sind diese Abhängigkeiten dennoch nicht zu vermeiden - beispielsweise weil die Daten benötigt werden - so soll der Zugriff auf die Fremdanwendung so gekapselt werden, dass der Zugriff mit vertretbarem Aufwand neu implementiert werden kann. 
+- Wenn es Abhängigkeiten zu technischen Infrastrukturkomponenten gibt (beispielsweise ein Datenbank Management Server, eine Suchmaschine oder einen Authentifizierungs Server), dann sollte der Zugriff über standardisierte Schnittstellen/ Protokolle erfolgen (z.B. OAuth oder SQL). Im besten Fall sollten in der technischen Infrastruktur auch FOSS Komponenten verwendet werden. 
+- Die verwendeten Technologien sollen möglichst weit verbreitet sein. Das gilt sowohl für die verwendeten Programmiersprachen, als auch die primären Frameworks, die verwendet werden. Das erhöht die Chance, dass die nutzende Behörde über Mitarbeiter verfügt, die die Technologien beherrschen. 
+- Die Zielinfrastruktur soll möglichst offen gehalten werden. D.h. die Anwendung sollte ohne große Anpassungen sowohl auf einem klassischen Server, als auch in einer Container Plattform oder einem Cloud Anbieter wie Amazon oder Google ausgebracht werden können.
+- Die Lizenzen der verwendeten Bibliotheken müssen so konsolidiert werden, dass die Software mit keinen oder möglichst niedrigen Auflagen weiter gegeben werden darf. Es muss möglich sein nachzuvollziehen, welche Lizenzen in der Anwendung verwendet wurden. 
+- Die Anwendung muss globalen Standards entsprechen. Das gilt beispielsweise für Dinge wie Barrierefreiheit. Aber auch für die Dokumentation oder Code Formatierung.
+- Personenbezogene Daten, Passwörter und andere vertrauliche Informationen gehören auf keinen Fall in ein Source Code Repository. Das ist unabhängig davon, ob es privat oder öffentlich ist.
+
+### Zusammenarbeit mit Service Providern
+Auch wenn alle oben genannten Grundsätze eingehalten werden, so ist es doch eine große Hürde, fremden Source Code herunter zu laden, zu konfigurieren und in einer Zielinfrastruktur auszubringen. Unter der Annahme, dass der Interessentenkreis vor allem aus dem kommunalen Umfeld kommt, werden diese Hürden nur von ein sehr kleiner Teil der Kommunen überwunden werden können. Eine Lösung, um auch die anderen potenziellen Interessenten - vor allem kleinere Städte oder Gemeinden - an FOSS teilhaben zu lassen, ist die Software als Dienst anzubieten. D.h. ein Service Provider stellt eine Software in seiner Infrastruktur zur Verfügung und die kleineren Kommunen können diese gegen eine Service Gebühr nutzen. Dies kann zu einer win - win - win Situation führen. 
+
+- Für den Service Provider, weil er ein Geschäftsmodell ohne großen initialen Aufwand und Risiko schaffen kann. 
+- Für die Landeshauptstadt München, weil jemand, der ein Geschäftsmodell auf einem Softwareprodukt aufbaut, sich auch (in welcher Form auch immer) an der Weiterentwicklung beteiligen wird. Diese Kosten trägt heute die LHM zu 100%.
+- Für die Service Nutzer, weil sie so zugang zu einer Softwarelösung bekommen, den sie sonst nicht hätten.
+
+Es ist also wichtig, dass die Landeshauptstadt München Beziehungen zu potenziellen Service Providern aufbaut. Besonders geeignet erscheinen hier Anbieter, die bereits heuite als Anstant öffentlichen Rechts auf dem kommunalen Software auftreten.   
 
 ## Lizenzen
 
@@ -44,14 +117,4 @@ Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen
   - Die Stadt München soll Open Source Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
   - Stellt die Stadt München selbst Software her, sollte sie eine freizügige Lizenz (wie MIT) wählen.
 
-## Beschaffung
 
-Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
-Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
-
-* es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
-* es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
-* es werden auch __Lizenzen__ für dual-lizenzierte __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
-
-Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängekeit zu begeben.
-So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
