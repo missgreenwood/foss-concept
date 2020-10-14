@@ -41,6 +41,7 @@ Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden a
 Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleisten, sollen die verwendeten Software Produkte ihre Schnittstellen über standardisierte und offene Protokolle zur Verfügung stellen. Solche Protokolle werden in der Regel von einer Standardisierungsorganisation (z.B. HTTP vom World Wide Web Consortium W3C) normiert und finden eine weite Verbreitung in der IT Community.
 
 ## Verwendung von FOSS in der LHM
+<!-- Die Geschäftsmodelle sind ein übergeordnetes Thema, das praktisch für alle Bereiche gilt. Eingeschränkt auch für die Eigenentwicklung. Deshalb habe ich das mal ganz nach oben gesetzt. -->
 Bei der Verwendung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
 Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
 
@@ -52,9 +53,13 @@ Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohn
 So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
 
 ### Client-Betriebssysteme und Office-Anwendungen
+<!-- Habe ich als Punkt übernommen - finde es aber schwierig hier etwas darüber zu schreiben, nachdem gerade Libre Office und Linux - mit nicht unerheblichem Aufwand - durch MS Office und Windows ersetzt wird. -->
 
-### Beschaffung von Software
-Die Landeshauptstadt München nutzt fertige Software Produkte aus dem kommunalen mfeld 
+### Beschaffung von kommunaler Software
+<!-- Ich würde das getrennt von anderen Beschaffungen sehen, da es aus meiner Sicht schwierig sein wird, auf dem kommunalesn Software Mart FOSS Produkte zu finden. -->
+
+### Beschaffung von nicht kommunaler Software
+Die Landeshauptstadt München verwendet auch Software, die nicht auf den Einsatz in einer Behörde beschränkt sind. Beispielweise GIT in der Softwareentwicklung, Serverbetriebssysteme im Anwendungsbetrieb, oder auch Videokonferenz Software. Hier sind die Möglichkeiten leistungsfähige FOSS Produkte auf dem Markt zu finden - auch in Kombination mit den oben genannten Geschäftsmodellen - deutlich höher, als bei kommunaler Spezialsoftware. Deshalb soll bei jeder Ausschreibung oder auch bei Abruf aus einem Rahmenvertrag, geprüft werden, ob es für den Einsatzzweck ein FOSS Produkt gibt und begründet werden, wenn dieses nicht verwendet wird.  
 
 ### Softwareentwicklung
 Neben der Nutzung von Standartsoftware Produkten, wird bei der LHM auch Software entwickelt. Hierbei sollen durchgängig (sowohl im Front, als auch im Backend) Open-Source Bibliotheken mit einer möglicht liberalen Lizenz (beispielsweise Apache Licence) verwendet werden. Das gilt unabhängig davon, ob die Software von Mitarbeitern der Stadt München, oder einem Dienstleister im Auftrag entwickelt wird.
