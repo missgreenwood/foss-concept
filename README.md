@@ -24,7 +24,7 @@ Durch offenen Quellcode, offene Standards und offene Schnittstellen ermöglichen
 
 ### Sicherheit
 
-###Public Money Public Code
+### Public Money Public Code
 
 Software, die von der öffentlichen Verwaltung entwickelt wird, ist bereits durch Steuergelder finanziert. Sie sollte damit als Allgemeingut den Bürger\*innen zur Verfügung stehen, wenn es dafür Verwendung gibt. Auch andere Kommunen oder Behörden können Open Source Software wiederverwenden und damit eigene Entwicklungskosten oder Lizenzgebühren für proprietäre Anbieter einsparen. 
 
