@@ -20,7 +20,7 @@ Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von
 Die Entscheidung für Open Source kann aus unterschiedlichen Gründen und Zugängen erfolgen, diese haben jeweils unterschiedliche Konsequenzen für die Umsetzung:
 
 ### Rückgewinnung digitaler Souveränität
-Durch offenen Quellcode, offene Standards und offene Schnittstellen ermöglichen wir eine Zusammenarbeit über eine Organisation hinaus. Dadurch lassen sich Gegengewichte zu den Netzwerkeffekten der großen Softwarekonzerne entwickeln. Offene Standards und Schnittstellen reduzieren zusätzlich die Herstellerabhängigkeit und ermöglichen größere Diversität.
+Durch offenen Quellcode, [offene Standards](#offene-standards) und offene Schnittstellen ermöglichen wir eine Zusammenarbeit über eine Organisation hinaus. Dadurch lassen sich Gegengewichte zu den Netzwerkeffekten der großen Softwarekonzerne entwickeln. Offene Standards und Schnittstellen reduzieren zusätzlich die Herstellerabhängigkeit und ermöglichen größere Diversität.
 
 ### Sicherheit
 
@@ -48,7 +48,7 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 
 ## Individualentwicklungen
 
-Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer Open-Source-Lizenz zur Verfügung zu stellen. 
+Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Open-Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
 
 ## Lizenzen
 
@@ -66,7 +66,7 @@ Bei "freizügigen" Lizenzen (wie der [MIT](https://choosealicense.com/licenses/m
 Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen können, können solche Software ohne Bedenken nutzen und für ihre Zwecke anpassen.
 
   - Die Stadt München soll Open Source Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
-  - Stellt die Stadt München selbst Software her, sollte sie eine freizügige Lizenz (wie MIT) wählen.
+  - Stellt die Stadt München [selbst Software her](#individualentwicklungen), sollte sie eine freizügige Lizenz (wie MIT) wählen.
 
 ## Beschaffung
 
@@ -75,7 +75,7 @@ Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://
 
 * es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
 * es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
-* es werden auch __Lizenzen__ für dual-lizenzierte __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
+* es werden auch __Lizenzen__ für [dual-lizenzierte](#lizenzen) __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
 
-Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängigkeit zu begeben.
+Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine [Herstellerabhängigkeit](#keine-herstellerabhängigkeiten) zu begeben.
 So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
