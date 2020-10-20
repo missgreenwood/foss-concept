@@ -26,16 +26,18 @@ Durch offenen Quellcode, offene Standards und offene Schnittstellen ermöglichen
 
 ### Public Money, Public Code
 
-Software, die von der öffentlichen Verwaltung entwickelt wird, ist bereits durch Steuergelder finanziert. Sie sollte damit als Allgemeingut den Bürger\*innen zur Verfügung stehen, wenn es dafür Verwendung gibt. Auch andere Kommunen oder Behörden können Open Source Software wiederverwenden und damit eigene Entwicklungskosten oder Lizenzgebühren für proprietäre Anbieter einsparen. 
+[Von allen bezahlter Code sollte für alle verfügbar sein!](https://publiccode.eu/de/). Software, die von der öffentlichen Verwaltung entwickelt wird, ist bereits durch Steuergelder finanziert. Sie sollte damit als Allgemeingut den Bürger\*innen zur Verfügung stehen, wenn es dafür Verwendung gibt. Auch andere Kommunen oder Behörden können Open Source Software wiederverwenden und damit eigene Entwicklungskosten oder Lizenzgebühren für proprietäre Anbieter einsparen.
 
 ## Offene Standards als Basis
 Die Softwareprodukte, die in der Landeshauptstadt München verwendet werden, sind miteinander vernetzt. Zudem werden zwischen der LHM und anderen Behörden Daten ausgetauscht. Deshalb ist es wichtig, neben FOSS auch auf offene Standards zu setzen. 
+
+[Ein Offener Standard ist ein Format oder Protokoll](https://fsfe.org/freesoftware/standards/def.de.html) das nur von anderen offenen Formaten abhängt, frei von rechtlichen Klauseln oder technischen Einschränkungen ist, gleichberechtigten weiterentwickelt wird, gleichermaßen für alle Beteiligten verfügbar ist und öffentlich geprüft und verwendet werden kann.
 
 ### Dokumentenstandards
 In einer Behörde sind sehr viele Prozesse an Dokumenten orientiert. Deshalb sollen offene und damit von allen verwendbare Dokumentformate verwendet werden. Dies sind in der Regel Formate, deren Spezifikation von offenen Standardisierungsorganisationen betreut werden (z.B. PDF von der PDF Association), oder die entsprechend normiert sind (beispielsweise das Open Document Format nach ISO/IEC 26300).
 
 ### Austauschformate
-Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden aus. Hier ist es wichtig, dass diese Daten medienbruchfrei und automatisiert verarbeitet werden können. Für behördliche Spezialthemen (z.B. Einwohnermeldewesen oder Ausländerwesen) gibt es hier standardisierte Austauschformate wie XÖV (https://www.xoev.de/). Die Nutzung der XÖV-Formate ist häufig vom Gesetzgeber vorgeschrieben (z.B. im Bundesmeldegesetz). Darüber hinaus sollen auch in anderen Bereichen offene Austauschformate verwendet werden, wenn solche vorhanden sind.
+Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden aus. Hier ist es wichtig, dass diese Daten medienbruchfrei und automatisiert verarbeitet werden können. Für behördliche Spezialthemen (z.B. Einwohnermeldewesen oder Ausländerwesen) gibt es hier standardisierte Austauschformate wie [XÖV](https://www.xoev.de). Die Nutzung der XÖV-Formate ist häufig vom Gesetzgeber vorgeschrieben (z.B. im Bundesmeldegesetz). Darüber hinaus sollen auch in anderen Bereichen offene Austauschformate verwendet werden, wenn solche vorhanden sind.
 
 ### Standardisierte Protokolle
 Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleisten, sollen die verwendeten Software Produkte ihre Schnittstellen über standardisierte und offene Protokolle zur Verfügung stellen. Solche Protokolle werden in der Regel von einer Standardisierungsorganisation (z.B. HTTP vom World Wide Web Consortium W3C) normiert und sind in der IT-Community weit verbreitet.
