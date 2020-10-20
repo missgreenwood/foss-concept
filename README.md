@@ -71,6 +71,7 @@ Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen
 ## Beschaffung
 
 Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
+Um die Funktionalität dieser Software sicherzustellen ist nicht nur OpenSource Software zu benutzen, sondern dazu auch Dienstleistungen zu beschaffen.
 Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein:
 
 * es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
