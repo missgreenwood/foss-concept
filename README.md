@@ -75,5 +75,5 @@ Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://
 * es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
 * es werden auch __Lizenzen__ für dual-lizenzierte __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
 
-Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängekeit zu begeben.
+Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine Herstellerabhängigkeit zu begeben.
 So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
