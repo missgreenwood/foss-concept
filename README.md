@@ -1,7 +1,7 @@
 FOSS-Konzept Grün-Rot München 2020
 ==================================
 
-<!--- 
+<!---
 Hier entsteht das Free and Open Source-Software-Konzept der grün-roten Regierungskoalition im Münchner Rathaus.
 Wir freuen uns über Eure Teilnahme und Euer Feedback!
 -->
@@ -15,8 +15,30 @@ Die [Koalitionsvereinbarung für die Stadtratsperiode 2020 –2026 zwischen Ober
 Dieses Konzept definiert [Free Open Source Software](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) (FOSS) für die Landeshauptstadt München auf Basis des Koalitionsvertrags.
 Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von Entwicklung, Beschaffung und Betrieb von OpenSource Software.
 
+## Wieso Open Source?
 
-## Offene Standards
+Die Entscheidung für Open Source kann aus unterschiedlichen Gründen und Zugängen erfolgen, diese haben jeweils unterschiedliche Konsequenzen für die Umsetzung:
+
+### Rückgewinnung digitaler Souveränität
+Durch offenen Quellcode, offene Standards und offene Schnittstellen ermöglichen wir eine Zusammenarbeit über eine Organisation hinaus. Dadurch lassen sich Gegengewichte zu den Netzwerkeffekten der großen Softwarekonzerne entwickeln. Offene Standards und Schnittstellen reduzieren zusätzlich die Herstellerabhängigkeit und ermöglichen größere Diversität.
+
+### Sicherheit
+
+### Public Money, Public Code
+
+Software, die von der öffentlichen Verwaltung entwickelt wird, ist bereits durch Steuergelder finanziert. Sie sollte damit als Allgemeingut den Bürger\*innen zur Verfügung stehen, wenn es dafür Verwendung gibt. Auch andere Kommunen oder Behörden können Open Source Software wiederverwenden und damit eigene Entwicklungskosten oder Lizenzgebühren für proprietäre Anbieter einsparen. 
+
+## Offene Standards als Basis
+Die Softwareprodukte, die in der Landeshauptstadt München verwendet werden, sind miteinander vernetzt. Zudem werden zwischen der LHM und anderen Behörden Daten ausgetauscht. Deshalb ist es wichtig, neben FOSS auch auf offene Standards zu setzen. 
+
+### Dokumentenstandards
+In einer Behörde sind sehr viele Prozesse an Dokumenten orientiert. Deshalb sollen offene und damit von allen verwendbare Dokumentformate verwendet werden. Dies sind in der Regel Formate, deren Spezifikation von offenen Standardisierungsorganisationen betreut werden (z.B. PDF von der PDF Association), oder die entsprechend normiert sind (beispielsweise das Open Document Format nach ISO/IEC 26300).
+
+### Austauschformate
+Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden aus. Hier ist es wichtig, dass diese Daten medienbruchfrei und automatisiert verarbeitet werden können. Für behördliche Spezialthemen (z.B. Einwohnermeldewesen oder Ausländerwesen) gibt es hier standardisierte Austauschformate wie XÖV (https://www.xoev.de/). Die Nutzung der XÖV-Formate ist häufig vom Gesetzgeber vorgeschrieben (z.B. im Bundesmeldegesetz). Darüber hinaus sollen auch in anderen Bereichen offene Austauschformate verwendet werden, wenn solche vorhanden sind.
+
+### Standardisierte Protokolle
+Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleisten, sollen die verwendeten Software Produkte ihre Schnittstellen über standardisierte und offene Protokolle zur Verfügung stellen. Solche Protokolle werden in der Regel von einer Standardisierungsorganisation (z.B. HTTP vom World Wide Web Consortium W3C) normiert und sind in der IT-Community weit verbreitet.
 
 ## Keine Herstellerabhängigkeiten
 
@@ -47,7 +69,7 @@ Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen
 ## Beschaffung
 
 Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
-Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein: 
+Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein:
 
 * es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
 * es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
