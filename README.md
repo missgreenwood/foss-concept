@@ -46,7 +46,16 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 
 ## Individualentwicklungen
 
-Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer Open-Source-Lizenz zur Verfügung zu stellen. 
+Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer Open-Source-Lizenz zur Verfügung zu stellen.
+
+## Betrieb von Open Source Software
+
+Open-Source-Software mit anderen Behörden oder Kommunen zu teilen bedeutet, dass jeder die Software selber betreiben muss. Da insbesondere kleinere Kommunen nicht das Knowhow haben, Software selber zu betreiben, soll die Stadt München 
+
+* darauf hinwirken, dass kommunale IT-Serice-Provider, wie z.B. die AKDB, Open-Source-Software der Stadt München für andere Kommunen oder Behörden betreibt und
+* regelmäßig prüfen, ob sie selbst entwickelte Open-Source-Software für andere Kommunen oder Behörden betreibt.
+
+Dadurch können möglichst viele Kommunen (und damit Bürger:innen) an den Investitionen der Stadt München partizipieren.
 
 ## Lizenzen
 
