@@ -53,7 +53,7 @@ Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und bas
 Open-Source-Software mit anderen Behörden oder Kommunen zu teilen bedeutet, dass jeder die Software selber betreiben muss. Da insbesondere kleinere Kommunen nicht das Knowhow haben, Software selber zu betreiben, soll die Stadt München 
 
 * darauf hinwirken, dass kommunale IT-Serice-Provider, wie z.B. die AKDB, Open-Source-Software der Stadt München für andere Kommunen oder Behörden betreibt und
-* regelmäßig prüfen, ob sie selbst entwickelte Open-Source-Software für andere Kommunen oder Behörden betreibt.
+* regelmäßig prüfen, ob sie selbst entwickelte Open-Source-Software für andere Kommunen oder Behörden betreiben kann.
 
 Dadurch können möglichst viele Kommunen (und damit Bürger:innen) an den Investitionen der Stadt München partizipieren.
 
