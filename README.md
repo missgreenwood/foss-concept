@@ -24,6 +24,10 @@ Durch offenen Quellcode, [offene Standards](#offene-standards) und offene Schnit
 
 ### Sicherheit
 
+Das Bundesamt für Scherheit in der Informationstechnik ([BSI](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/FreieSoftware/freiesoftware_node.html)) empfiehlt den Einsatz von FOSS und offenen Standards mit folgender Begründung: 
+
+> Anpassbarkeit und Software-Vielfalt sowie die Verwendung offener Standards bieten eine Basis für IT-Sicherheit. Sicherheit ist jedoch ein Prozess. Um IT-Sicherheit erhalten zu können, müssen die Verantwortlichen das System genau kennen, regelmäßig warten und Sicherheitslücken schnell beheben. Der Einsatz von FLOSS bietet per se keine Gewähr für ein sicheres System. Er bietet in diesem Prozess jedoch bedeutende strategische Vorteile.
+
 ### Public Money, Public Code
 
 [Von allen bezahlter Code sollte für alle verfügbar sein!](https://publiccode.eu/de/). Software, die von der öffentlichen Verwaltung entwickelt wird, ist bereits durch Steuergelder finanziert. Sie sollte damit als Allgemeingut den Bürger\*innen zur Verfügung stehen, wenn es dafür Verwendung gibt. Auch andere Kommunen oder Behörden können Open Source Software wiederverwenden und damit eigene Entwicklungskosten oder Lizenzgebühren für proprietäre Anbieter einsparen.
