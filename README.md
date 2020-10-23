@@ -50,6 +50,15 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 
 Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Ope  Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
 
+## Betrieb von Open Source Software
+
+Open Source-Software mit anderen Behörden oder Kommunen zu teilen bedeutet, dass jede\*r die Software selber betreiben muss. Da insbesondere kleinere Kommunen nicht das Knowhow haben, Software selber zu betreiben, soll die Stadt München 
+
+* darauf hinwirken, dass kommunale IT-Service-Provider, wie z.B. die AKDB, Open Source-Software der Stadt München für andere Kommunen oder Behörden betreibt und
+* regelmäßig prüfen, ob sie selbst entwickelte Open Source-Software für andere Kommunen oder Behörden betreiben kann.
+
+Dadurch können möglichst viele Kommunen (und damit Bürger\*innen) an den Investitionen der Stadt München partizipieren.
+
 ## Lizenzen
 
 "Open Source"-Software bedeutet, dass der Quellcode frei zugänglich ist - der Code ist _einsehbar_ und _prüfbar_, wie bei einem Auto, dem man in den Motorraum sehen kann.
