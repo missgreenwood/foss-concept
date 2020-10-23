@@ -48,34 +48,34 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 
 ## Individualentwicklungen
 
-Individualentwicklungen sollen grundsätzlich mit Open-Source-Frameworks und basierend auf Open-Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Open-Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
+Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Ope  Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
 
 ## Lizenzen
 
-"Open Source" Software bedeutet, dass der Quellcode frei zugänglich ist - der Code ist _einsehbar_ und _prüfbar_, wie bei einem Auto, dem man in den Motorraum sehen kann.
+"Open Source"-Software bedeutet, dass der Quellcode frei zugänglich ist - der Code ist _einsehbar_ und _prüfbar_, wie bei einem Auto, dem man in den Motorraum sehen kann.
 
 Lizenzverträge regeln, inwiefern der Quellcode auch _nutzbar_ ist.
-Es gibt eine [Vielzahl unterschiedlicher Open Source Lizenzen](https://choosealicense.com/).
+Es gibt eine [Vielzahl unterschiedlicher Open Source-Lizenzen](https://choosealicense.com/).
 In erster Linie unterscheiden sich diese in der Anforderung, ob [Bearbeitungen](https://en.wikipedia.org/wiki/Derivative_work) des Quellcodes fortan der selben Lizenz unterliegen müssen - der sogenannten "[Copyleft](https://de.wikipedia.org/wiki/Copyleft)" Klausel oder auch "Viralität" einer Lizenz.
 
 "Virale" Lizenzen (wie die [GPL](https://choosealicense.com/licenses/gpl-3.0/) und die [EUPL](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)) erfordern, dass Bearbeitungen derselben Lizenz unterliegen wie das ursprüngliche Werk.
-So müssen Veränderungen am Quellcode auch den ursprünglichen Autoren zugänglich gemacht werden.
+So müssen Veränderungen am Quellcode auch den ursprünglichen Autor*innen zugänglich gemacht werden.
 Unterschiedliche Copyleft-Lizenzen können zueinander inkompatibel sein, was die Nutzung solcher Software erschweren kann.
 
 Bei "freizügigen" Lizenzen (wie der [MIT](https://choosealicense.com/licenses/mit/)) entfällt dieser Zwang.
 Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen können, können solche Software ohne Bedenken nutzen und für ihre Zwecke anpassen.
 
-  - Die Stadt München soll Open Source Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
+  - Die Stadt München soll Open Source-Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
   - Stellt die Stadt München [selbst Software her](#individualentwicklungen), sollte sie eine freizügige Lizenz (wie MIT) wählen.
 
 ## Beschaffung
 
-Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem OpenSource Umfeld präferiert werden.
-Um die Funktionalität dieser Software sicherzustellen ist nicht nur OpenSource Software zu benutzen, sondern dazu auch Dienstleistungen zu beschaffen.
-Dies schließt zahlreiche [Geschäftsmodelle für Open-Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein:
+Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem Open Source-Umfeld präferiert werden.
+Um die Funktionalität dieser Software sicherzustellen ist nicht nur Open Source-Software zu benutzen, sondern dazu auch Dienstleistungen zu beschaffen.
+Dies schließt zahlreiche [Geschäftsmodelle für Open Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein:
 
-* es werden __Supportverträge__ für genutzte OpenSource Software beschafft (z.B. RedHat RHEL)
-* es werden __Beratungsleistungen__ zur Einführung, Betrieb und Weiterentwicklung von OpenSource Software beschafft.
+* es werden __Supportverträge__ für genutzte Open Source Software beschafft (z.B. RedHat RHEL)
+* es werden __Beratungsleistungen__ zu Einführung, Betrieb und Weiterentwicklung von Open Source Software beschafft.
 * es werden auch __Lizenzen__ für [dual-lizenzierte](#lizenzen) __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
 
 Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine [Herstellerabhängigkeit](#keine-herstellerabhängigkeiten) zu begeben.
