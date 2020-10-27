@@ -26,7 +26,7 @@ Durch offenen Quellcode, [offene Standards](#offene-standards) und offene Schnit
 
 ### Public Money, Public Code
 
-[Von allen bezahlter Code sollte für alle verfügbar sein!](https://publiccode.eu/de/). Software, die von der öffentlichen Verwaltung entwickelt wird, ist bereits durch Steuergelder finanziert. Sie sollte damit als Allgemeingut den Bürger\*innen zur Verfügung stehen, wenn es dafür Verwendung gibt. Auch andere Kommunen oder Behörden können Open Source Software wiederverwenden und damit eigene Entwicklungskosten oder Lizenzgebühren für proprietäre Anbieter einsparen.
+[Von allen bezahlter Code sollte für alle verfügbar sein!](https://publiccode.eu/de/). Software, die von der öffentlichen Verwaltung entwickelt wird, ist bereits durch Steuergelder finanziert. Sie sollte damit als Allgemeingut den Bürger\*innen zur Verfügung stehen, wenn es dafür Verwendung gibt. Auch andere Kommunen oder Behörden können Open Source-Software wiederverwenden und damit eigene Entwicklungskosten oder Lizenzgebühren für proprietäre Anbieter einsparen.
 
 ## Offene Standards
 Die Softwareprodukte, die in der Landeshauptstadt München verwendet werden, sind miteinander vernetzt. Zudem werden zwischen der LHM und anderen Behörden Daten ausgetauscht. Deshalb ist es wichtig, neben FOSS auch auf offene Standards zu setzen. 
@@ -50,7 +50,7 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 
 Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Ope  Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
 
-## Betrieb von Open Source Software
+## Betrieb von Open Source-Software
 
 Open Source-Software mit anderen Behörden oder Kommunen zu teilen bedeutet, dass jede\*r die Software selber betreiben muss. Da insbesondere kleinere Kommunen nicht das Knowhow haben, Software selber zu betreiben, soll die Stadt München 
 
@@ -83,8 +83,8 @@ Bei der Beschaffung von Software und Hardware sollen Lösungen aus dem Open Sour
 Um die Funktionalität dieser Software sicherzustellen ist nicht nur Open Source-Software zu benutzen, sondern dazu auch Dienstleistungen zu beschaffen.
 Dies schließt zahlreiche [Geschäftsmodelle für Open Source-Software](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodelle_f%C3%BCr_Open-Source-Software#Ans%C3%A4tze) mit ein:
 
-* es werden __Supportverträge__ für genutzte Open Source Software beschafft (z.B. RedHat RHEL)
-* es werden __Beratungsleistungen__ zu Einführung, Betrieb und Weiterentwicklung von Open Source Software beschafft.
+* es werden __Supportverträge__ für genutzte Open Source-Software beschafft (z.B. RedHat RHEL)
+* es werden __Beratungsleistungen__ zu Einführung, Betrieb und Weiterentwicklung von Open Source-Software beschafft.
 * es werden auch __Lizenzen__ für [dual-lizenzierte](#lizenzen) __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
 
 Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine [Herstellerabhängigkeit](#keine-herstellerabhängigkeiten) zu begeben.
