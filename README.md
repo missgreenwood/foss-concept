@@ -50,18 +50,17 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Open Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
 Notwendige Kriterien für die Auswahl als Open Source-Projekt sind, dass die Leistungsfähigkeit und Benutzer*innenfreundlichkeit der entwickelten Software im Produktiveinsatz gewährleistet sind, sowie die technische und finanzielle Machbarkeit.
 
-Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
+* Der entwickelte Quellcode wird __öffentlich zugänglich__ gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
 Um externe Beiträge zu ermöglichen, sind Contribution Rules zu formulieren.
 Hierbei sind auch Hinweise zu machen, dass keine Haftung übernommen wird und auch kein Support geleistet werden kann, sowie das Ende eines Projektes zu berücksichtigen, also auch die Möglichkeit, dass die Landeshauptstadt veröffentlichten Code ggf. nicht weiter pflegt.
-
-Die Sprache des Quellcodes ist Englisch bis auf landesspezifische Fachsprache.
+* Die __Sprache__ des Quellcodes ist Englisch bis auf landesspezifische Fachsprache.
 Die Dokumentation kann auf Englisch oder Deutsch erfolgen.
 Das Benutzerhandbuch muss mindestens auf Deutsch verfügbar sein.
-Die Entwicklung findet von Anfang an auf einem geeigneten öffentlichen Repository wie zum Beispiel https://github.com/it-at-mstatt, zusätzlich auf einem internen Mirror wie https://git.muenchen.de.
+* Die Entwicklung findet von Anfang an auf einem geeigneten öffentlichen __Repository__ wie zum Beispiel [github.com/it-at-m](https://github.com/it-at-m) statt, zusätzlich auf einem internen Mirror wie git.muenchen.de.
 Zusätzlich werden die Repositories der Open Source Business Alliance gemirrored.
-Es werden offene, austauschbare Schnittstellen verwendet: Datenbanken, Identity Provider etc. müssen im Quellcode austauschbar sein.
+* Es werden offene, austauschbare Schnittstellen verwendet: Datenbanken, Identity Provider etc. müssen im Quellcode austauschbar sein.
 Dabei sollten insbesondere die von der Europäischen Kommission 2017 definierten EIRA Standards des EIF (European Interoperability Framework) angewandt werden.
-Mehraufwände durch „Clean Code“, also das Befolgen eines Kodex für sauberen Quellcode, sind grundsätzlich im Projekt zu tragen.
+* Mehraufwände durch „Clean Code“, also das Befolgen eines Kodex für sauberen Quellcode, sind grundsätzlich im Projekt zu tragen.
 
 Das IT-Referat, vertreten durch seine Software-Architekt*innen, entscheidet über die Open Source-Eignung eines Projektes nach der MBUC-Analyse („Make-Buy-Use-Compose“).
 
