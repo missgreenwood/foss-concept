@@ -49,6 +49,39 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 
 Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Open Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
 
+Das IT-Referat, vertreten durch seine Software-Architekt*innen, entscheidet über die Open Source-Eignung eines Projektes nach der MBUC-Analyse („Make-Buy-Use-Compose“).
+Notwendige Kriterien für die Auswahl als Open Source-Projekt sind, dass die Leistungsfähigkeit und Benutzer*innenfreundlichkeit der entwickelten Software im Produktiveinsatz gewährleistet sind, sowie die technische und finanzielle Machbarkeit.
+Wird ein Projekt als ungeeignet für die Open Source-Entwicklung eingestuft, muss diese Entscheidung dem IT-Ausschuss bekannt gegeben und fachlich begründet werden.
+In der ersten Stufe schlägt das IT-Referat dem Stadtrat fünf Projekte auf dem Hoheitsgebiet der Landeshauptstadt München vor, die kurzfristig als Open Source Projekt realisiert werden.
+
+In der zweiten Stufe wird ab dem 4. Quartal 2021 auf dem Hoheitsgebiet neue Individualsoftware grundsätzlich auf der Basis von Open Source entwickelt.
+Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
+Um externe Beiträge zu ermöglichen, sind Contribution Rules zu formulieren.
+Hierbei sind auch Hinweise zu machen, dass keine Haftung übernommen wird und auch kein Support geleistet werden kann, sowie das Ende eines Projektes zu berücksichtigen, also auch die Möglichkeit, dass die Landeshauptstadt veröffentlichten Code ggf. nicht weiter pflegt.
+
+Die Sprache des Quellcodes ist Englisch bis auf landesspezifische Fachsprache.
+Die Dokumentation kann auf Englisch oder Deutsch erfolgen.
+Das Benutzerhandbuch muss mindestens auf Deutsch verfügbar sein.
+Die Entwicklung findet von Anfang an auf einem geeigneten öffentlichen Repository wie zum Beispiel https://github.com/it-at-mstatt, zusätzlich auf einem internen Mirror wie https://git.muenchen.de.
+Zusätzlich werden die Repositories der Open Source Business Alliance gemirrored.
+Es werden offene, austauschbare Schnittstellen verwendet: Datenbanken, Identity Provider etc. müssen im Quellcode austauschbar sein.
+Dabei sollten insbesondere die von der Europäischen Kommission 2017 definierten EIRA Standards des EIF (European Interoperability Framework) angewandt werden.
+Mehraufwände durch „Clean Code“, also das Befolgen eines Kodex für sauberen Quellcode, sind grundsätzlich im Projekt zu tragen.
+
+Das IT-Referat führt Schulungen für Software-Entwickler*innen in der Entwicklung von Open Source-Software je nach Anwendungsbereich auf Windows, Linux oder anderen Betriebssystemen und Plattformen durch.
+
+Eigene Software-Entwicklungen (Fall „Make“ bei MBUC-Analyse) auf dem Hoheitsgebiet der Landeshauptstadt München sollen grundsätzlich im Open Source-Kontext stattfinden.
+Unter neue Individualsoftware fällt Open Office/LibreOffice explizit nicht.
+Vom Open Source-Prinzip kann in begründeten Fällen abgewichen werden.
+Diese Entscheidungen sind fachlich auszuführen und im IT-Ausschuss bekannt zu geben.
+Bereits heute gibt es im Eigenbetrieb it@M Open Source-begeisterte Expert*innen, deren Kriterien für qualitativ hochwertigen Quellcode Beachtung finden sollten.
+Dazu gehören insbesondere die Auswahl geeigneter Open Source-Lizenzen, die verwendeten Plattformen und ein Kodex für sauberen Quellcode.
+Die Open Source-Community soll ermutigt werden, an den Software-Projekten der Landeshauptstadt München mitzuwirken.
+Das geschieht aber in der Regel nur bei hochwertigen und gut gepflegten Software-Projekten.
+Das Veröffentlichen von Software führt in der Regel bereits zu qualitativ hochwertigem Quellcode.
+Um schnelle und provisorische Lösungen zu vermeiden und die internen Gesamtkosten zu reduzieren, sind Mehraufwände durch „Clean Code“ jedoch grundsätzlich im Projekt zu tragen.
+
+
 ## Betrieb von Open Source-Software
 
 Open Source-Software mit anderen Behörden oder Kommunen zu teilen bedeutet, dass jede\*r die Software selber betreiben muss. Da insbesondere kleinere Kommunen nicht das Knowhow haben, Software selber zu betreiben, soll die Stadt München 
