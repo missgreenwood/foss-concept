@@ -64,6 +64,9 @@ Das Benutzerhandbuch muss mindestens auf Deutsch verfügbar sein.
 
 Das IT-Referat, vertreten durch seine Software-Architekt*innen, entscheidet über die Open Source-Eignung eines Projektes nach der MBUC-Analyse („Make-Buy-Use-Compose“).
 
+Dazu ist der Antrag [Neue Software im Open Source-Kontext entwickeln!](https://www.muenchen-transparent.de/antraege/6289779) _In Bearbeitung_.
+
+
 ## Betrieb von Open Source-Software
 
 Open Source-Software mit anderen Behörden oder Kommunen zu teilen bedeutet, dass jede\*r die Software selber betreiben muss. Da insbesondere kleinere Kommunen nicht das Knowhow haben, Software selber zu betreiben, soll die Stadt München 
