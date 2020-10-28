@@ -56,7 +56,7 @@ Hierbei sind auch Hinweise zu machen, dass keine Haftung übernommen wird und au
 * Die Entwicklung findet von Anfang an auf einem geeigneten öffentlichen __Repository__ wie zum Beispiel [github.com/it-at-m](https://github.com/it-at-m) statt, zusätzlich auf einem internen Mirror wie git.muenchen.de.
 Zusätzlich werden die Repositories der [Open Source Business Alliance](https://osb-alliance.de/) gemirrored.
 * Es werden offene, austauschbare [Schnittstellen](#standardisierte-protokolle) verwendet: Datenbanken, Identity Provider etc. müssen im Quellcode austauschbar sein.
-Dabei sollten insbesondere die von der Europäischen Kommission 2017 definierten EIRA Standards des EIF (European Interoperability Framework) angewandt werden.
+Dabei sollten insbesondere die von der Europäischen Kommission 2017 definierten EIRA Standards des EIF ([European Interoperability Framework](https://ec.europa.eu/isa2/eif_en)) angewandt werden.
 * Die __Sprache__ des Quellcodes ist Englisch bis auf landesspezifische Fachsprache.
 Die Dokumentation kann auf Englisch oder Deutsch erfolgen.
 Das Benutzerhandbuch muss mindestens auf Deutsch verfügbar sein.
