@@ -57,10 +57,10 @@ Hierbei sind auch Hinweise zu machen, dass keine Haftung übernommen wird und au
 Die Dokumentation kann auf Englisch oder Deutsch erfolgen.
 Das Benutzerhandbuch muss mindestens auf Deutsch verfügbar sein.
 * Die Entwicklung findet von Anfang an auf einem geeigneten öffentlichen __Repository__ wie zum Beispiel [github.com/it-at-m](https://github.com/it-at-m) statt, zusätzlich auf einem internen Mirror wie git.muenchen.de.
-Zusätzlich werden die Repositories der Open Source Business Alliance gemirrored.
+Zusätzlich werden die Repositories der [Open Source Business Alliance](https://osb-alliance.de/) gemirrored.
 * Es werden offene, austauschbare Schnittstellen verwendet: Datenbanken, Identity Provider etc. müssen im Quellcode austauschbar sein.
 Dabei sollten insbesondere die von der Europäischen Kommission 2017 definierten EIRA Standards des EIF (European Interoperability Framework) angewandt werden.
-* Mehraufwände durch „Clean Code“, also das Befolgen eines Kodex für sauberen Quellcode, sind grundsätzlich im Projekt zu tragen.
+* Mehraufwände durch [Clean Code](https://de.wikipedia.org/wiki/Clean_Code), also das Befolgen eines Kodex für sauberen Quellcode, sind grundsätzlich im Projekt zu tragen.
 
 Das IT-Referat, vertreten durch seine Software-Architekt*innen, entscheidet über die Open Source-Eignung eines Projektes nach der MBUC-Analyse („Make-Buy-Use-Compose“).
 
