@@ -48,8 +48,6 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 ## Individualentwicklungen
 
 Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Open Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
-
-Das IT-Referat, vertreten durch seine Software-Architekt*innen, entscheidet über die Open Source-Eignung eines Projektes nach der MBUC-Analyse („Make-Buy-Use-Compose“).
 Notwendige Kriterien für die Auswahl als Open Source-Projekt sind, dass die Leistungsfähigkeit und Benutzer*innenfreundlichkeit der entwickelten Software im Produktiveinsatz gewährleistet sind, sowie die technische und finanzielle Machbarkeit.
 
 Der entwickelte Quellcode wird öffentlich zugänglich gemacht und unter eine freizügige Open Source-Lizenz (z.B. EUPL, MIT) gestellt.
@@ -65,6 +63,7 @@ Es werden offene, austauschbare Schnittstellen verwendet: Datenbanken, Identity 
 Dabei sollten insbesondere die von der Europäischen Kommission 2017 definierten EIRA Standards des EIF (European Interoperability Framework) angewandt werden.
 Mehraufwände durch „Clean Code“, also das Befolgen eines Kodex für sauberen Quellcode, sind grundsätzlich im Projekt zu tragen.
 
+Das IT-Referat, vertreten durch seine Software-Architekt*innen, entscheidet über die Open Source-Eignung eines Projektes nach der MBUC-Analyse („Make-Buy-Use-Compose“).
 
 ## Betrieb von Open Source-Software
 
