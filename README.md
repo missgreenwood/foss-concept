@@ -60,7 +60,7 @@ Dabei sollten insbesondere die von der Europäischen Kommission 2017 definierten
 * Die __Sprache__ des Quellcodes ist Englisch bis auf landesspezifische Fachsprache.
 Die Dokumentation kann auf Englisch oder Deutsch erfolgen.
 Das Benutzerhandbuch muss mindestens auf Deutsch verfügbar sein.
-* Mehraufwände durch [Clean Code](https://de.wikipedia.org/wiki/Clean_Code), also das Befolgen eines Kodex für sauberen Quellcode, sind grundsätzlich im Projekt zu tragen.
+* Durch den Einsatz von [Clean Code](https://de.wikipedia.org/wiki/Clean_Code), also das Befolgen eines Kodex für sauberen Quellcode, wird Wartbarkeit, Erweiterbarkeit, Wiederverwendbarkeit und eine höhere [Sicherheit](#sicherheit) ermöglicht.
 
 Das IT-Referat, vertreten durch seine Software-Architekt*innen, entscheidet über die Open Source-Eignung eines Projektes nach der MBUC-Analyse („Make-Buy-Use-Compose“).
 
