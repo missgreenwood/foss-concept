@@ -4,4 +4,4 @@ Hier entsteht das Free and Open Source-Software-Konzept der grün-roten Regierun
 Wir freuen uns über Eure Teilnahme und Euer Feedback!
 
 * In einem Absatz, jeden Satz als neue Zeile anlegen.
-So bleibt bei Änderungen an anderen Sätze des Absatz die [Urheberschaft](https://github.com/missgreenwood/foss-concept/graphs/contributors) erhalten.
+So bleibt bei Änderungen an anderen Sätzen des Absatzes die [Urheberschaft](https://github.com/missgreenwood/foss-concept/graphs/contributors) erhalten.
