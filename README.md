@@ -48,6 +48,24 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 ## Individualentwicklungen
 
 Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Open Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
+Notwendige Kriterien für die Auswahl als Open Source-Projekt sind, dass die Leistungsfähigkeit und Benutzer*innenfreundlichkeit der entwickelten Software im Produktiveinsatz gewährleistet sind, sowie die technische und finanzielle Machbarkeit.
+
+* Der entwickelte Quellcode wird __öffentlich zugänglich__ gemacht und unter eine freizügige [Open Source-Lizenz](#lizenzen) (z.B. EUPL, MIT) gestellt.
+Um externe Beiträge zu ermöglichen, sind Contribution Rules zu formulieren.
+Hierbei sind auch Hinweise zu machen, dass keine Haftung übernommen wird und auch kein Support geleistet werden kann, sowie das Ende eines Projektes zu berücksichtigen, also auch die Möglichkeit, dass die Landeshauptstadt veröffentlichten Code ggf. nicht weiter pflegt.
+* Die Entwicklung findet von Anfang an auf einem geeigneten öffentlichen __Repository__ wie zum Beispiel [github.com/it-at-m](https://github.com/it-at-m) statt, zusätzlich auf einem internen Mirror wie git.muenchen.de.
+Zusätzlich werden die Repositories der [Open Source Business Alliance](https://osb-alliance.de/) gemirrored.
+* Es werden offene, austauschbare [Schnittstellen](#standardisierte-protokolle) verwendet: Datenbanken, Identity Provider etc. müssen im Quellcode austauschbar sein.
+Dabei sollten insbesondere die von der Europäischen Kommission 2017 definierten EIRA Standards des EIF ([European Interoperability Framework](https://ec.europa.eu/isa2/eif_en)) angewandt werden.
+* Die __Sprache__ des Quellcodes ist Englisch bis auf landesspezifische Fachsprache.
+Die Dokumentation kann auf Englisch oder Deutsch erfolgen.
+Das Benutzerhandbuch muss mindestens auf Deutsch verfügbar sein.
+* Durch den Einsatz von [Clean Code](https://de.wikipedia.org/wiki/Clean_Code), also das Befolgen eines Kodex für sauberen Quellcode, wird Wartbarkeit, Erweiterbarkeit, Wiederverwendbarkeit und eine höhere [Sicherheit](#sicherheit) ermöglicht.
+
+Das IT-Referat, vertreten durch seine Software-Architekt*innen, entscheidet über die Open Source-Eignung eines Projektes nach der MBUC-Analyse („Make-Buy-Use-Compose“).
+
+Dazu ist der Antrag [Neue Software im Open Source-Kontext entwickeln!](https://www.muenchen-transparent.de/antraege/6289779) _In Bearbeitung_.
+
 
 ## Betrieb von Open Source-Software
 
