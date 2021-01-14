@@ -55,6 +55,15 @@ Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
+
+Moderne IT besteht aus vernetzten, kollaborativen  Cloud-Plattformen  - nicht aus einzelnen Arbeitsplatzrechnern, an denen Office Dokumente erstellt und als E-Mail-Anhang verschickt werden.
+Der gesamte Verwaltungsprozess soll mit allen Beteiligten gemeinsam und digital statt finden.
+Diese Veränderung ordnet dem Arbeitsplatzrechner eine neue Rolle als Client zu.  
+
+Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
+Office-Applikation und Mailanwendung werden vom Gerät befreit:
+Notebooks, Mobiltelefone und Tablets sind digitale Begleiter.
+
 ## Individualentwicklungen
 
 Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Open Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
