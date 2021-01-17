@@ -62,6 +62,12 @@ Diese Veränderung ordnet dem Arbeitsplatzrechner eine neue Rolle als Client zu.
 Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
 Office-Applikation und Mailanwendung werden vom Gerät befreit:
 Notebooks, Mobiltelefone und Tablets sind digitale Begleiter.
+Auch wenn es immer technische Gründe geben wird klassische Desktop-Anwendungen zu betreiben oder Terminalanwendung anzubieten.
+
+Bei Einsatz von Online-Office-Lösungen, wie bei allen Webanwendungen, ist besonders auf [Herstellerunabhängigkeit](#keine-herstellerabhängigkeiten) zu achten.
+Dazu müssen auch bei Cloudanwendungen [offenen Standards](#offene-standards) eingesetzt werden um eine Interoperabilität zu gewährleisten.
+Auf Serverseite, wie auch auch auf Clientseite, ist freie Software zu nutzen.
+
 
 ## Individualentwicklungen
 
