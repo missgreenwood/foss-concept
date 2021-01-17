@@ -51,7 +51,7 @@ So wird die Modernisierung der IT-Landschaft weiter erschwert.
 Schon bei der Planung und [Beschaffung](#beschaffung) soll daher Wert auf Modularität und offene Schnittstellen gelegt werden, so dass einzelne Softwarekomponenten leicht austauschbar sind.
 Bei freier Software kann der Service unabhängig vom Hersteller oder sogar in eigener Regie erfolgen.
 
-Gute Softwarelösungen bestehen aus freien Komponenten, durch offene Schnittstellen zu einem Gesamten verbunden.
+Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene Schnittstellen zu einem Gesamten verbunden.
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
