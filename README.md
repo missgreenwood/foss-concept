@@ -55,10 +55,9 @@ Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
-
-Moderne IT besteht aus vernetzten, kollaborativen  Cloud-Plattformen  - nicht aus einzelnen Arbeitsplatzrechnern, an denen Office Dokumente erstellt und als E-Mail-Anhang verschickt werden.
+Moderne IT besteht aus vernetzten, kollaborativen Cloud-Plattformen - nicht aus einzelnen Arbeitsplatzrechnern, an denen Office Dokumente erstellt und als E-Mail-Anhang verschickt werden.
 Der gesamte Verwaltungsprozess soll mit allen Beteiligten gemeinsam und digital statt finden.
-Diese Veränderung ordnet dem Arbeitsplatzrechner eine neue Rolle als Client zu.  
+Diese Veränderung ordnet dem Arbeitsplatzrechner eine neue Rolle als Client zu.
 
 Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
 Office-Applikation und Mailanwendung werden vom Gerät befreit:
