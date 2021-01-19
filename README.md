@@ -43,15 +43,15 @@ Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleis
 
 ## Freie Wahl der Zulieferer statt Herstellerabhängigkeiten
 
-Durch den sogenannten [Vendor Lock-in Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt) werden Kunden an Softwarehersteller gebunden.
+Durch den sogenannten [Vendor Lock-in-Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt) werden Kunden an Softwarehersteller gebunden.
 Dies führt zu hohen Aufwänden bei einem Wechsel zu einer leistungsfähigeren oder günstigeren Software.
 So wird die Modernisierung der IT-Landschaft weiter erschwert.
 
 [Offene Standards](#offene-standards) und _freie Software_ ermöglichen es, Software und Anbieter leicht zu wechseln und die digitale Souveränität wirtschaftlich zu sichern.
 Schon bei der Planung und [Beschaffung](#beschaffung) soll daher Wert auf Modularität und offene Schnittstellen gelegt werden, so dass einzelne Softwarekomponenten leicht austauschbar sind.
-Bei freier Software kann der Service unabhängig vom Hersteller oder sogar in eigener Regie erfolgen.
+Bei freier Software kann der Service unabhängig vom Hersteller oder sogar in eigener Regie eingesetzt werden.
 
-Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene Schnittstellen zu einem Gesamten verbunden.
+Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene Schnittstellen zu einem Ganzen verbunden.
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
