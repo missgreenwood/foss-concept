@@ -41,7 +41,17 @@ Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden a
 ### Standardisierte Protokolle
 Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleisten, sollen die verwendeten Software Produkte ihre Schnittstellen über standardisierte und offene Protokolle zur Verfügung stellen. Solche Protokolle werden in der Regel von einer Standardisierungsorganisation (z.B. HTTP vom World Wide Web Consortium W3C) normiert und sind in der IT-Community weit verbreitet.
 
-## Keine Herstellerabhängigkeiten
+## Freie Wahl der Zulieferer statt Herstellerabhängigkeiten
+
+Durch den sogenannten [Vendor Lock-in Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt) werden Kunden an Softwarehersteller gebunden.
+Dies führt zu hohen Aufwänden bei einem Wechsel zu einer leistungsfähigeren oder günstigeren Software.
+So wird die Modernisierung der IT-Landschaft weiter erschwert.
+
+[Offene Standards](#offene-standards) und _freie Software_ ermöglichen es, Software und Anbieter leicht zu wechseln und die digitale Souveränität wirtschaftlich zu sichern.
+Schon bei der Planung und [Beschaffung](#beschaffung) soll daher Wert auf Modularität und offene Schnittstellen gelegt werden, so dass einzelne Softwarekomponenten leicht austauschbar sind.
+Bei freier Software kann der Service unabhängig vom Hersteller oder sogar in eigener Regie erfolgen.
+
+Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene Schnittstellen zu einem Gesamten verbunden.
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
