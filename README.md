@@ -55,9 +55,12 @@ Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
+Betriebssysteme und Anwendungen sind oft in einer Herstellerabhängigkeit gefangen.
+Diese Abhängigkeiten sollen primär, nicht durch freie Software _ersetzt_, sondern durch offene Schnittstellen _aufgelöst_ werden.
+Ein klassischer freier Arbeitsplatzrechner mit Limux, Libre Office und Wollmux wird nicht mehr angestrebt.
+
 Moderne IT besteht aus vernetzten, kollaborativen Cloud-Plattformen - nicht aus einzelnen Arbeitsplatzrechnern, an denen Office Dokumente erstellt und als E-Mail-Anhang verschickt werden.
 Der gesamte Verwaltungsprozess soll mit allen Beteiligten gemeinsam und digital statt finden.
-Diese Veränderung ordnet dem Arbeitsplatzrechner eine neue Rolle als Client zu.
 Auch wenn es in Zukunft auch weiterhin klassische native Anwendungen geben wird, ordnet diese Veränderung dem Arbeitsplatzrechner eine neue Rolle als Client zu.
 
 Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
