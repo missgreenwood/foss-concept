@@ -66,9 +66,15 @@ Auch wenn es in Zukunft auch weiterhin klassische native Anwendungen geben wird,
 Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
 Office-Applikation und Mailanwendung werden vom Gerät befreit:
 Notebooks, Mobiltelefone und Tablets sind digitale Begleiter.
-Auch wenn es immer technische Gründe geben wird klassische Desktop-Anwendungen zu betreiben oder Terminalanwendung anzubieten.
 
-Beim Einsatz von Webanwendungen, im besonderen bei Online-Office-Lösungen, ist auf [Herstellerunabhängigkeit](#keine-herstellerabhängigkeiten) zu achten.
+Natürlich sind heute nicht alle IT-Services über offene Schnittstellen Online- oder gar Cloud fähig.
+Vor allem bei spezialisierten kommunalen Fachanwendungen kann es technische Hürden geben.
+Diese sind als __Terminalanwendung__ anzubieten.
+So können Anwendungen, die besondere Anforderungen an Betriebssystem oder Hardware haben (z.B. Kapazität, Lizenzdongles), allen Arbeitsplatzrechnern zur Verfügung gestellt werden.
+
+Für klassische __native Anwendungen__ auf Arbeitsplatzrechnern sind freie Lösungen zu nutzen.
+
+Bei Einsatz von Webanwendungen, im besonderen bei Online-Office-Lösungen, ist auf [Herstellerunabhängigkeit](#keine-herstellerabhängigkeiten) zu achten.
 Dazu müssen auch bei Cloudanwendungen [offenen Standards](#offene-standards) eingesetzt werden um eine Interoperabilität zu gewährleisten.
 Auf Clientseite, wie auch auch auf Serverseite, ist vorzugsweise freie Software zu nutzen.
 
