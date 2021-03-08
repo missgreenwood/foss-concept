@@ -67,7 +67,7 @@ Auch wenn es immer technische Gründe geben wird klassische Desktop-Anwendungen 
 
 Bei Einsatz von Online-Office-Lösungen, wie bei allen Webanwendungen, ist auf [Herstellerunabhängigkeit](#keine-herstellerabhängigkeiten) zu achten.
 Dazu müssen auch bei Cloudanwendungen [offenen Standards](#offene-standards) eingesetzt werden um eine Interoperabilität zu gewährleisten.
-Auf Serverseite, wie auch auch auf Clientseite, ist vorzugsweise freie Software zu nutzen.
+Auf Clientseite, wie auch auch auf Serverseite, ist vorzugsweise freie Software zu nutzen.
 
 
 ## Individualentwicklungen
