@@ -58,6 +58,7 @@ Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene
 Moderne IT besteht aus vernetzten, kollaborativen Cloud-Plattformen - nicht aus einzelnen Arbeitsplatzrechnern, an denen Office Dokumente erstellt und als E-Mail-Anhang verschickt werden.
 Der gesamte Verwaltungsprozess soll mit allen Beteiligten gemeinsam und digital statt finden.
 Diese Veränderung ordnet dem Arbeitsplatzrechner eine neue Rolle als Client zu.
+Auch wenn es in Zukunft auch weiterhin klassische native Anwendungen geben wird, ordnet diese Veränderung dem Arbeitsplatzrechner eine neue Rolle als Client zu.
 
 Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
 Office-Applikation und Mailanwendung werden vom Gerät befreit:
