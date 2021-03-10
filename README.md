@@ -41,22 +41,42 @@ Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden a
 ### Standardisierte Protokolle
 Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleisten, sollen die verwendeten Software Produkte ihre Schnittstellen über standardisierte und offene Protokolle zur Verfügung stellen. Solche Protokolle werden in der Regel von einer Standardisierungsorganisation (z.B. HTTP vom World Wide Web Consortium W3C) normiert und sind in der IT-Community weit verbreitet.
 
-## Keine Herstellerabhängigkeiten
+## Freie Wahl der Zulieferer statt Herstellerabhängigkeiten
+
+Durch den sogenannten [Vendor Lock-in-Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt) werden Kunden an Softwarehersteller gebunden.
+Dies führt zu hohen Aufwänden bei einem Wechsel zu einer leistungsfähigeren oder günstigeren Software.
+So wird die Modernisierung der IT-Landschaft weiter erschwert.
+
+[Offene Standards](#offene-standards) und _freie Software_ ermöglichen es, Software und Anbieter leicht zu wechseln und die digitale Souveränität wirtschaftlich zu sichern.
+Schon bei der Planung und [Beschaffung](#beschaffung) soll daher Wert auf Modularität und offene Schnittstellen gelegt werden, so dass einzelne Softwarekomponenten leicht austauschbar sind.
+Bei freier Software kann der Service unabhängig vom Hersteller oder sogar in eigener Regie eingesetzt werden.
+
+Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene Schnittstellen zu einem Ganzen verbunden.
 
 ## Client-Betriebssysteme und Office-Anwendungen
 
+Betriebssysteme und Anwendungen sind oft in einer Herstellerabhängigkeit gefangen.
+Diese Abhängigkeiten sollen primär, nicht durch freie Software _ersetzt_, sondern durch offene Schnittstellen _aufgelöst_ werden.
+Ein klassischer freier Arbeitsplatzrechner mit Limux, Libre Office und Wollmux wird nicht mehr angestrebt.
+
 Moderne IT besteht aus vernetzten, kollaborativen Cloud-Plattformen - nicht aus einzelnen Arbeitsplatzrechnern, an denen Office Dokumente erstellt und als E-Mail-Anhang verschickt werden.
 Der gesamte Verwaltungsprozess soll mit allen Beteiligten gemeinsam und digital statt finden.
-Diese Veränderung ordnet dem Arbeitsplatzrechner eine neue Rolle als Client zu.
+Auch wenn es in Zukunft auch weiterhin klassische native Anwendungen geben wird, ordnet diese Veränderung dem Arbeitsplatzrechner eine neue Rolle als Client zu.
 
 Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
 Office-Applikation und Mailanwendung werden vom Gerät befreit:
 Notebooks, Mobiltelefone und Tablets sind digitale Begleiter.
-Auch wenn es immer technische Gründe geben wird klassische Desktop-Anwendungen zu betreiben oder Terminalanwendung anzubieten.
 
-Bei Einsatz von Online-Office-Lösungen, wie bei allen Webanwendungen, ist auf [Herstellerunabhängigkeit](#keine-herstellerabhängigkeiten) zu achten.
+Natürlich sind heute nicht alle IT-Services über offene Schnittstellen Online- oder gar Cloud fähig.
+Vor allem bei spezialisierten kommunalen Fachanwendungen kann es technische Hürden geben.
+Diese sind als __Terminalanwendung__ anzubieten.
+So können Anwendungen, die besondere Anforderungen an Betriebssystem oder Hardware haben (z.B. Kapazität, Lizenzdongles), allen Arbeitsplatzrechnern zur Verfügung gestellt werden.
+
+Für klassische __native Anwendungen__ auf Arbeitsplatzrechnern sind freie Lösungen zu nutzen.
+
+Bei Einsatz von Webanwendungen, im besonderen bei Online-Office-Lösungen, ist auf [Herstellerunabhängigkeit](#keine-herstellerabhängigkeiten) zu achten.
 Dazu müssen auch bei Cloudanwendungen [offenen Standards](#offene-standards) eingesetzt werden um eine Interoperabilität zu gewährleisten.
-Auf Serverseite, wie auch auch auf Clientseite, ist vorzugsweise freie Software zu nutzen.
+Auf Clientseite, wie auch auch auf Serverseite, ist vorzugsweise freie Software zu nutzen.
 
 
 ## Individualentwicklungen
