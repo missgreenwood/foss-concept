@@ -53,8 +53,6 @@ Bei freier Software kann der Service unabhängig vom Hersteller oder sogar in ei
 
 Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene Schnittstellen zu einem Ganzen verbunden.
 
-## Client-Betriebssysteme und Office-Anwendungen
-
 ## Individualentwicklungen
 
 Individualentwicklungen sollen grundsätzlich mit Open Source-Frameworks und basierend auf Open Source-Komponenten entwickelt werden, unabhängig davon, ob die Software von der Stadt München oder einem Dienstleister im Auftrag entwickelt wird. Das ist Voraussetzung, um diese Fachanwendungen anderen Organisationen unter einer [Open Source-Lizenz](#lizenzen) zur Verfügung zu stellen.
