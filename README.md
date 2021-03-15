@@ -10,6 +10,7 @@ Die [Koalitionsvereinbarung für die Stadtratsperiode 2020 –2026 zwischen Ober
 Dieses Konzept definiert [Free Open Source Software](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) (FOSS) für die Landeshauptstadt München auf Basis des Koalitionsvertrags.
 Es definiert Voraussetzungen, Abhängigkeiten, Ausschlüsse und Zielrichtung von Entwicklung, Beschaffung und Betrieb von OpenSource Software.
 
+
 ## Wieso Open Source?
 
 Die Entscheidung für Open Source kann aus unterschiedlichen Gründen und Zugängen erfolgen, diese haben jeweils unterschiedliche Konsequenzen für die Umsetzung:
@@ -27,6 +28,7 @@ Das Bundesamt für Scherheit in der Informationstechnik ([BSI](https://www.bsi.b
 
 [Von allen bezahlter Code sollte für alle verfügbar sein!](https://publiccode.eu/de/) Software, die von der öffentlichen Verwaltung entwickelt wird, ist bereits durch Steuergelder finanziert. Sie sollte damit als Allgemeingut den Bürger\*innen zur Verfügung stehen, wenn es dafür Verwendung gibt. Auch andere Kommunen oder Behörden können Open Source-Software wiederverwenden und damit eigene Entwicklungskosten oder Lizenzgebühren für proprietäre Anbieter einsparen.
 
+
 ## Offene Standards
 Die Softwareprodukte, die in der Landeshauptstadt München verwendet werden, sind miteinander vernetzt. Zudem werden zwischen der LHM und anderen Behörden Daten ausgetauscht. Deshalb ist es wichtig, neben FOSS auch auf offene Standards zu setzen. 
 
@@ -41,6 +43,7 @@ Die Landeshauptstadt München tauscht regelmäßig Daten mit anderen Behörden a
 ### Standardisierte Protokolle
 Um eine optimale Kommunikation innerhalb der Anwendungslandschaft zu gewährleisten, sollen die verwendeten Software Produkte ihre Schnittstellen über standardisierte und offene Protokolle zur Verfügung stellen. Solche Protokolle werden in der Regel von einer Standardisierungsorganisation (z.B. HTTP vom World Wide Web Consortium W3C) normiert und sind in der IT-Community weit verbreitet.
 
+
 ## Freie Wahl der Zulieferer statt Herstellerabhängigkeiten
 
 Durch den sogenannten [Vendor Lock-in-Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt) werden Kunden an Softwarehersteller gebunden.
@@ -52,6 +55,33 @@ Schon bei der Planung und [Beschaffung](#beschaffung) soll daher Wert auf Modula
 Bei freier Software kann der Service unabhängig vom Hersteller oder sogar in eigener Regie eingesetzt werden.
 
 Gute Softwarelösungen bestehen aus frei zugänglichen Komponenten, durch offene Schnittstellen zu einem Ganzen verbunden.
+
+
+## Client-Betriebssysteme und Office-Anwendungen
+
+Betriebssysteme und Anwendungen sind oft in einer Herstellerabhängigkeit gefangen.
+Diese Abhängigkeiten sollen primär nicht durch freie Software _ersetzt_, sondern durch offene Schnittstellen _aufgelöst_ werden.
+Ein klassischer freier Arbeitsplatzrechner mit Limux, Libre Office und Wollmux wird nicht mehr angestrebt.
+
+Moderne IT besteht aus vernetzten, kollaborativen Cloud-Plattformen - nicht aus einzelnen Arbeitsplatzrechnern, an denen Office-Dokumente erstellt und als E-Mail-Anhang verschickt werden.
+Der gesamte Verwaltungsprozess soll mit allen Beteiligten gemeinsam und digital statt finden.
+Auch wenn es in Zukunft weiterhin klassische native Anwendungen geben wird, ordnet diese Veränderung dem Arbeitsplatzrechner eine neue Rolle als Client zu.
+
+Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
+Office-Applikation und Mailanwendung werden vom Gerät befreit:
+Notebooks, Mobiltelefone und Tablets sind digitale Begleiter.
+
+Natürlich sind heute nicht alle IT-Services über offene Schnittstellen Online- oder gar Cloud fähig.
+Vor allem bei spezialisierten kommunalen Fachanwendungen kann es technische Hürden geben.
+Diese sind als __Terminalanwendung__ anzubieten.
+So können Anwendungen, die besondere Anforderungen an Betriebssystem oder Hardware haben (z.B. Kapazität, Lizenzdongles), allen Arbeitsplatzrechnern zur Verfügung gestellt werden.
+
+Für klassische __native Anwendungen__ auf Arbeitsplatzrechnern sind freie Lösungen zu nutzen.
+
+Bei Einsatz von Webanwendungen, im Besonderen bei Online-Office-Lösungen, ist auf [Herstellerunabhängigkeit](#keine-herstellerabhängigkeiten) zu achten.
+Dazu müssen auch bei Cloudanwendungen [offene Standards](#offene-standards) eingesetzt werden um eine Interoperabilität zu gewährleisten.
+Auf Clientseite wie auch auch auf Serverseite ist vorzugsweise freie Software zu nutzen.
+
 
 ## Individualentwicklungen
 
@@ -84,6 +114,7 @@ Open Source-Software mit anderen Behörden oder Kommunen zu teilen bedeutet, das
 
 Dadurch können möglichst viele Kommunen (und damit Bürger\*innen) an den Investitionen der Stadt München partizipieren.
 
+
 ## Lizenzen
 
 "Open Source"-Software bedeutet, dass der Quellcode frei zugänglich ist - der Code ist _einsehbar_ und _prüfbar_, wie bei einem Auto, dem man in den Motorraum sehen kann.
@@ -101,6 +132,7 @@ Auch Firmen und Entitäten, die ihre Arbeit nicht ohne weiteres veröffentlichen
 
 * Die Stadt München soll Open Source-Software unabhängig von diesen Kategorien nutzen können. Copyleft- wie auch freizügige Lizenzen sind besser als proprietäre Nutzungsverträge.
 * Stellt die Stadt München [selbst Software her](#individualentwicklungen), sollte sie eine freizügige Lizenz (wie MIT) wählen.
+
 
 ## Beschaffung
 
