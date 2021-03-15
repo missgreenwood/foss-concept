@@ -71,7 +71,7 @@ Das Betriebssystem wird zu einer Benutzeroberfläche für Cloudanwendungen.
 Office-Applikation und Mailanwendung werden vom Gerät befreit:
 Notebooks, Mobiltelefone und Tablets sind digitale Begleiter.
 
-Natürlich sind heute nicht alle IT-Services über offene Schnittstellen Online- oder gar Cloud fähig.
+Natürlich sind heute nicht alle IT-Services über offene Schnittstellen online- oder gar Cloud-fähig.
 Vor allem bei spezialisierten kommunalen Fachanwendungen kann es technische Hürden geben.
 Diese sind als __Terminalanwendung__ anzubieten.
 So können Anwendungen, die besondere Anforderungen an Betriebssystem oder Hardware haben (z.B. Kapazität, Lizenzdongles), allen Arbeitsplatzrechnern zur Verfügung gestellt werden.
