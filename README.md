@@ -20,7 +20,7 @@ Durch offenen Quellcode, [offene Standards](#offene-standards) und offene Schnit
 
 ### Sicherheit
 
-Das Bundesamt für Sicherheit in der Informationstechnik ([BSI](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/FreieSoftware/freiesoftware_node.html)) empfiehlt den Einsatz von FOSS und offenen Standards mit folgender Begründung: 
+Das Bundesamt für Sicherheit in der Informationstechnik ([BSI](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software_node.html)) empfiehlt den Einsatz von FOSS und offenen Standards mit folgender Begründung: 
 
 > Anpassbarkeit und Software-Vielfalt sowie die Verwendung offener Standards bieten eine Basis für IT-Sicherheit. Sicherheit ist jedoch ein Prozess. Um IT-Sicherheit erhalten zu können, müssen die Verantwortlichen das System genau kennen, regelmäßig warten und Sicherheitslücken schnell beheben. Der Einsatz von FLOSS bietet per se keine Gewähr für ein sicheres System. Er bietet in diesem Prozess jedoch bedeutende strategische Vorteile.
 
