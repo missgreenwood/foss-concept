@@ -10,7 +10,7 @@ Dies führt zu einer geringen Herstellerabhängigkeit, der außerdem leicht zu e
 Wir sind nur an [Git](https://de.wikipedia.org/wiki/Git#Kein_zentraler_Server) als freie Software zur verteilten Codeverwaltung gebunden.
 Diese wird auch von allen anderen relevanten Plattformen genutzt.
 So halten wir uns offen, andere auf Git basierende Plattformen zusätzlich oder alternativ zu nutzen.
-(wie andere freie Projekte auch z.B. [curl](https://daniel.haxx.se/blog/2021/01/28/what-if-github-is-the-devil/))
+(Wie andere freie Projekte auch, z.B. [curl](https://daniel.haxx.se/blog/2021/01/28/what-if-github-is-the-devil/))
 
 Freier Code muss nicht ausschliesslich auf GitHub verwaltet werden.
 Freier Code kann immer zusätzlich auch auf anderen Plattformen wie SourceForge, GitLab.com oder anderen öffentlichen Plattformen gemirrored werden.
@@ -20,4 +20,4 @@ Wird eine andere öffentliche Plattform als offizielles Repository genutzt, müs
 Zusätzlich muss der Code auf GitHub gemirrored werden.
 (Wie z.B. [coreutils](https://github.com/coreutils/coreutils) oder [linux](https://github.com/torvalds/linux)).
 
-Die Nutzung anderer [properitärer Features von github.com](https://github.com/features) (z.B. [Actions](https://github.com/features/actions)) schließen wir aus.
+Die Nutzung anderer [properitärer Features von github.com](https://github.com/features), (z.B. [Actions](https://github.com/features/actions)), schließen wir aus.
