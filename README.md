@@ -147,7 +147,7 @@ Dies schließt zahlreiche [Geschäftsmodelle für Open Source-Software](https://
 
 * es werden __Supportverträge__ für genutzte Open Source-Software beschafft (z.B. RedHat RHEL)
 * es werden __Beratungsleistungen__ zu Einführung, Betrieb und Weiterentwicklung von Open Source-Software beschafft.
-* es werden auch __Lizenzen__ für [dual-lizenzierte](#lizenzen) __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und deren relevanter Teil quelloffen ist (z.B. GitLab).
+* es werden auch __Lizenzen__ für [dual-lizenzierte](#lizenzen) __proprietäre Erweiterungen__ von Software beschafft, deren freie Versionen bereits im Einsatz sind und/oder deren [core quelloffen](https://en.wikipedia.org/wiki/Open-core_model) ist (z.B. Linux, GitLab).
 
 Die Landeshauptstadt München beschafft so professionelle Softwarelösungen, ohne sich mit der benutzten Software in eine [Herstellerabhängigkeit](#keine-herstellerabhängigkeiten) zu begeben.
 So können Leistungen jederzeit neu ausgeschrieben und bestmöglich am Markt vergeben werden.
